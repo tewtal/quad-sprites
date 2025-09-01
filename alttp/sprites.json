@@ -7,6 +7,14 @@
       "author": "Damien Jacobs",
       "rdcPath": "dark_link.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "Samus",
+      "name": "Samus (Super Metroid)",
+      "imagePath": "samus.png",
+      "author": "Ben G",
+      "rdcPath": "samus.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
