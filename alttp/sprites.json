@@ -23,6 +23,14 @@
       "author": "Fish_waffle64",
       "rdcPath": "zero_suit_samus.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "hollow_knight",
+      "name": "Hollow Knight",
+      "imagePath": "hollow_knight.png",
+      "author": "Chew_Terr",
+      "rdcPath": "hollow_knight.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
