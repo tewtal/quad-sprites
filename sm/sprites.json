@@ -1,1 +1,12 @@
-{}
+{
+  "sprites": [
+    {
+      "value": "dark_samus",
+      "name": "Dark Samus",
+      "imagePath": "dark_samus.png",
+      "author": "TarThoron",
+      "rdcPath": "dark_samus.rdc.gz",
+      "kind": "rdc/samus"
+    }
+  ]
+}
