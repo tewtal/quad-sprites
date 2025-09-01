@@ -7,6 +7,14 @@
       "author": "TarThoron",
       "rdcPath": "dark_samus.rdc",
       "kind": "rdc/samus"
+    },
+    {
+      "value": "mega_man_x",
+      "name": "Mega Man X",
+      "imagePath": "mega_man_x.png",
+      "author": "Artheau",
+      "rdcPath": "mega_man_x.rdc",
+      "kind": "rdc/samus"
     }
   ]
 }
