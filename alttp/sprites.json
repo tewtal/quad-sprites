@@ -23,6 +23,14 @@
       "author": "Fish_waffle64",
       "rdcPath": "zero_suit_samus.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "mario_classic_",
+      "name": "Mario (Classic)",
+      "imagePath": "mario_classic_.png",
+      "author": "Damon",
+      "rdcPath": "mario_classic_.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
