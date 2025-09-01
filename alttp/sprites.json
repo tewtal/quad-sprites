@@ -1,1 +1,12 @@
-{}
+{
+  "sprites": [
+    {
+      "value": "Dark Link",
+      "name": "Dark Link Damien",
+      "imagePath": "dark_link.png",
+      "author": "Damien Jacobs",
+      "rdcPath": "dark_link.rdc",
+      "kind": "rdc/link"
+    }
+  ]
+}
