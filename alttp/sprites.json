@@ -15,6 +15,14 @@
       "author": "Ben G",
       "rdcPath": "samus.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "Zero Suit Samus",
+      "name": "Zero Suit Samus",
+      "imagePath": "zero_suit_samus.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "zero_suit_samus.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
