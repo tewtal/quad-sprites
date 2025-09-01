@@ -39,14 +39,6 @@
       "author": "KHRoxas",
       "rdcPath": "kirby.rdc",
       "kind": "rdc/link"
-    },
-    {
-      "value": "the_pug",
-      "name": "The Pug",
-      "imagePath": "the_pug.png",
-      "author": "Achy",
-      "rdcPath": "the_pug.rdc",
-      "kind": "rdc/link"
     }
   ]
 }
