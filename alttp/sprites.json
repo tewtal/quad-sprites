@@ -31,6 +31,14 @@
       "author": "Damon",
       "rdcPath": "mario_classic_.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "kirby",
+      "name": "Kirby",
+      "imagePath": "kirby.png",
+      "author": "KHRoxas",
+      "rdcPath": "kirby.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
