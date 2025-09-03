@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "game": "sm",
+  "hash": "9bd6d5cdd413f216",
+  "generatedAt": "2025-09-03T18:02:55.071Z",
+  "sheet": {
+    "image": "sheet-sm-9bd6d5cdd413f216.png",
+    "width": 2048,
+    "height": 48
+  },
+  "cell": {
+    "w": 32,
+    "h": 48
+  },
+  "sprites": [
+    {
+      "value": "dark_samus",
+      "name": "Dark Samus",
+      "author": "TarThoron",
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "dark_samus.png"
+    },
+    {
+      "value": "mega_man_x",
+      "name": "Mega Man X",
+      "author": "Artheau",
+      "x": 32,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "mega_man_x.png"
+    }
+  ],
+  "byValue": {
+    "dark_samus": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 0
+    },
+    "mega_man_x": {
+      "x": 32,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 1
+    }
+  }
+}
