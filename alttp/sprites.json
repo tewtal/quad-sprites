@@ -143,6 +143,14 @@
       "author": "Chew Terr",
       "rdcPath": "arcticartemisfox.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "arcturuschusky",
+      "name": "ArcturusChusky",
+      "imagePath": "arcturuschusky.png",
+      "author": "Drieky",
+      "rdcPath": "arcturuschusky.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
