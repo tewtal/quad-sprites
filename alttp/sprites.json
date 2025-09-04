@@ -159,6 +159,14 @@
       "author": "Maya Neko Comics",
       "rdcPath": "aria.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "ark_no_cape_",
+      "name": "Ark (No Cape)",
+      "imagePath": "ark_no_cape_.png",
+      "author": "Dorana",
+      "rdcPath": "ark_no_cape_.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
