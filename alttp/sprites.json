@@ -71,6 +71,14 @@
       "author": "Yuushia",
       "rdcPath": "adol.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "adventure_2600",
+      "name": "Adventure 2600",
+      "imagePath": "adventure_2600.png",
+      "author": "Purple Peak",
+      "rdcPath": "adventure_2600.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
