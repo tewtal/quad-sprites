@@ -1,1 +1,3739 @@
-{}
+{
+  "sprites": [
+    {
+      "value": "abigail",
+      "name": "Abigail",
+      "imagePath": "abigail.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "abigail.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "adol",
+      "name": "Adol",
+      "imagePath": "adol.png",
+      "author": "Yuushia",
+      "rdcPath": "adol.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "adventure_2600",
+      "name": "Adventure 2600",
+      "imagePath": "adventure_2600.png",
+      "author": "Purple Peak",
+      "rdcPath": "adventure_2600.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "aggretsuko",
+      "name": "Aggretsuko",
+      "imagePath": "aggretsuko.png",
+      "author": "skovacs1",
+      "rdcPath": "aggretsuko.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "alex",
+      "name": "Alex",
+      "imagePath": "alex.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "alex.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "alice",
+      "name": "Alice",
+      "imagePath": "alice.png",
+      "author": "Artheau",
+      "rdcPath": "alice.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "angry_video_game_nerd",
+      "name": "Angry Video Game Nerd",
+      "imagePath": "angry_video_game_nerd.png",
+      "author": "ABOhiccups",
+      "rdcPath": "angry_video_game_nerd.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "annalavellan",
+      "name": "AnnaLavellan",
+      "imagePath": "annalavellan.png",
+      "author": "AnnaLavellan",
+      "rdcPath": "annalavellan.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "arcane",
+      "name": "Arcane",
+      "imagePath": "arcane.png",
+      "author": "MM102",
+      "rdcPath": "arcane.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "archen",
+      "name": "Archen",
+      "imagePath": "archen.png",
+      "author": "Vonyee",
+      "rdcPath": "archen.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "arcticartemisfox",
+      "name": "ArcticArtemisFox",
+      "imagePath": "arcticartemisfox.png",
+      "author": "Chew Terr",
+      "rdcPath": "arcticartemisfox.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "arcturuschusky",
+      "name": "ArcturusChusky",
+      "imagePath": "arcturuschusky.png",
+      "author": "Drieky",
+      "rdcPath": "arcturuschusky.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "aria",
+      "name": "Aria",
+      "imagePath": "aria.png",
+      "author": "Maya Neko Comics",
+      "rdcPath": "aria.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ark_no_cape_",
+      "name": "Ark (No Cape)",
+      "imagePath": "ark_no_cape_.png",
+      "author": "Dorana",
+      "rdcPath": "ark_no_cape_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ark",
+      "name": "Ark",
+      "imagePath": "ark.png",
+      "author": "wzl",
+      "rdcPath": "ark.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "arrghus",
+      "name": "Arrghus",
+      "imagePath": "arrghus.png",
+      "author": "kan",
+      "rdcPath": "arrghus.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "astor",
+      "name": "Astor",
+      "imagePath": "astor.png",
+      "author": "Herowho",
+      "rdcPath": "astor.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "astronaut",
+      "name": "Astronaut",
+      "imagePath": "astronaut.png",
+      "author": "Malmo",
+      "rdcPath": "astronaut.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "asuna",
+      "name": "Asuna",
+      "imagePath": "asuna.png",
+      "author": "Natsuru Kiyohoshi",
+      "rdcPath": "asuna.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "b_o_b_",
+      "name": "B.O.B.",
+      "imagePath": "b_o_b_.png",
+      "author": "SpoonyBard",
+      "rdcPath": "b_o_b_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "baba",
+      "name": "Baba",
+      "imagePath": "baba.png",
+      "author": "malmo",
+      "rdcPath": "baba.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "baby_fro",
+      "name": "Baby Fro",
+      "imagePath": "baby_fro.png",
+      "author": "MochaJones10",
+      "rdcPath": "baby_fro.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "baby_metroid",
+      "name": "Baby Metroid",
+      "imagePath": "baby_metroid.png",
+      "author": "Jam",
+      "rdcPath": "baby_metroid.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "badeline",
+      "name": "Badeline",
+      "imagePath": "badeline.png",
+      "author": "Jam",
+      "rdcPath": "badeline.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bailey",
+      "name": "Bailey",
+      "imagePath": "bailey.png",
+      "author": "The Bestest Milly",
+      "rdcPath": "bailey.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bananas_in_pyjamas",
+      "name": "Bananas In Pyjamas",
+      "imagePath": "bananas_in_pyjamas.png",
+      "author": "codemann8",
+      "rdcPath": "bananas_in_pyjamas.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bandit",
+      "name": "Bandit",
+      "imagePath": "bandit.png",
+      "author": "Fenrika",
+      "rdcPath": "bandit.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "batman",
+      "name": "Batman",
+      "imagePath": "batman.png",
+      "author": "Ninjakauz",
+      "rdcPath": "batman.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "beau",
+      "name": "Beau",
+      "imagePath": "beau.png",
+      "author": "Achy",
+      "rdcPath": "beau.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bee",
+      "name": "Bee",
+      "imagePath": "bee.png",
+      "author": "TarThoron",
+      "rdcPath": "bee.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bel",
+      "name": "Bel",
+      "imagePath": "bel.png",
+      "author": "Kishi/Krelbel",
+      "rdcPath": "bel.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bewp",
+      "name": "Bewp",
+      "imagePath": "bewp.png",
+      "author": "Valechec",
+      "rdcPath": "bewp.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "big_key",
+      "name": "Big Key",
+      "imagePath": "big_key.png",
+      "author": "kan",
+      "rdcPath": "big_key.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "birb_of_paradise",
+      "name": "Birb of Paradise",
+      "imagePath": "birb_of_paradise.png",
+      "author": "Dr. Deadrewski",
+      "rdcPath": "birb_of_paradise.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "birb",
+      "name": "Birb",
+      "imagePath": "birb.png",
+      "author": "Andrew Copple",
+      "rdcPath": "birb.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "birdfruit",
+      "name": "Birdfruit",
+      "imagePath": "birdfruit.png",
+      "author": "karafruit",
+      "rdcPath": "birdfruit.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "birdo",
+      "name": "Birdo",
+      "imagePath": "birdo.png",
+      "author": "BlackTycoon",
+      "rdcPath": "birdo.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "black_mage",
+      "name": "Black Mage",
+      "imagePath": "black_mage.png",
+      "author": "TheRedMage",
+      "rdcPath": "black_mage.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "blacksmith_link",
+      "name": "Blacksmith Link",
+      "imagePath": "blacksmith_link.png",
+      "author": "Glan",
+      "rdcPath": "blacksmith_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "blazer",
+      "name": "Blazer",
+      "imagePath": "blazer.png",
+      "author": "Herowho",
+      "rdcPath": "blazer.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "blossom",
+      "name": "Blossom",
+      "imagePath": "blossom.png",
+      "author": "Artheau",
+      "rdcPath": "blossom.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "blue",
+      "name": "Blue",
+      "imagePath": "blue.png",
+      "author": "WiipartyU",
+      "rdcPath": "blue.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bob_ross",
+      "name": "Bob Ross",
+      "imagePath": "bob_ross.png",
+      "author": "CaptainApathy",
+      "rdcPath": "bob_ross.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bob",
+      "name": "Bob",
+      "imagePath": "bob.png",
+      "author": "kan",
+      "rdcPath": "bob.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "boco_the_chocobo",
+      "name": "Boco the Chocobo",
+      "imagePath": "boco_the_chocobo.png",
+      "author": "TarThoron",
+      "rdcPath": "boco_the_chocobo.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "boo_2",
+      "name": "Boo 2",
+      "imagePath": "boo_2.png",
+      "author": "Achy",
+      "rdcPath": "boo_2.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "boo",
+      "name": "Boo",
+      "imagePath": "boo.png",
+      "author": "Zarby89",
+      "rdcPath": "boo.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bottle_o_goo",
+      "name": "Bottle o' Goo",
+      "imagePath": "bottle_o_goo.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "bottle_o_goo.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "botw_link",
+      "name": "BotW Link",
+      "imagePath": "botw_link.png",
+      "author": "Pasta La Vista",
+      "rdcPath": "botw_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "botw_zelda",
+      "name": "BotW Zelda",
+      "imagePath": "botw_zelda.png",
+      "author": "Roo",
+      "rdcPath": "botw_zelda.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bowser",
+      "name": "Bowser",
+      "imagePath": "bowser.png",
+      "author": "Artheau",
+      "rdcPath": "bowser.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bowsette-red",
+      "name": "Bowsette-Red",
+      "imagePath": "bowsette-red.png",
+      "author": "Sarah Shinespark",
+      "rdcPath": "bowsette-red.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bowsette",
+      "name": "Bowsette",
+      "imagePath": "bowsette.png",
+      "author": "Sarah Shinespark",
+      "rdcPath": "bowsette.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "branch",
+      "name": "Branch",
+      "imagePath": "branch.png",
+      "author": "cbass601",
+      "rdcPath": "branch.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "brian",
+      "name": "Brian",
+      "imagePath": "brian.png",
+      "author": "Herowho",
+      "rdcPath": "brian.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "broccoli",
+      "name": "Broccoli",
+      "imagePath": "broccoli.png",
+      "author": "kan",
+      "rdcPath": "broccoli.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bronzor",
+      "name": "Bronzor",
+      "imagePath": "bronzor.png",
+      "author": "kan",
+      "rdcPath": "bronzor.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "b_s_boy",
+      "name": "B.S. Boy",
+      "imagePath": "b_s_boy.png",
+      "author": "InTheBeef",
+      "rdcPath": "b_s_boy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "b_s_girl",
+      "name": "B.S. Girl",
+      "imagePath": "b_s_girl.png",
+      "author": "InTheBeef",
+      "rdcPath": "b_s_girl.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bubblen",
+      "name": "Bubblen",
+      "imagePath": "bubblen.png",
+      "author": "NO Body the Dragon",
+      "rdcPath": "bubblen.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bubbles",
+      "name": "Bubbles",
+      "imagePath": "bubbles.png",
+      "author": "Artheau",
+      "rdcPath": "bubbles.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "bullet_bill",
+      "name": "Bullet Bill",
+      "imagePath": "bullet_bill.png",
+      "author": "Artheau",
+      "rdcPath": "bullet_bill.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "buttercup",
+      "name": "Buttercup",
+      "imagePath": "buttercup.png",
+      "author": "Artheau",
+      "rdcPath": "buttercup.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cactuar",
+      "name": "Cactuar",
+      "imagePath": "cactuar.png",
+      "author": "RyuTech",
+      "rdcPath": "cactuar.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cadence",
+      "name": "Cadence",
+      "imagePath": "cadence.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "cadence.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "captain_novolin",
+      "name": "Captain Novolin",
+      "imagePath": "captain_novolin.png",
+      "author": "Fragger",
+      "rdcPath": "captain_novolin.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "captain_toadette",
+      "name": "Captain Toadette",
+      "imagePath": "captain_toadette.png",
+      "author": "Devan2002",
+      "rdcPath": "captain_toadette.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "casual_zelda",
+      "name": "Casual Zelda",
+      "imagePath": "casual_zelda.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "casual_zelda.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cat_boo",
+      "name": "Cat Boo",
+      "imagePath": "cat_boo.png",
+      "author": "JaySee87",
+      "rdcPath": "cat_boo.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cd_i_link",
+      "name": "CD_i Link",
+      "imagePath": "cd_i_link.png",
+      "author": "SnipSlum",
+      "rdcPath": "cd_i_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "celes",
+      "name": "Celes",
+      "imagePath": "celes.png",
+      "author": "Deagans",
+      "rdcPath": "celes.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "centaur_enos",
+      "name": "Centaur Enos",
+      "imagePath": "centaur_enos.png",
+      "author": "Ziusudra",
+      "rdcPath": "centaur_enos.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "charizard",
+      "name": "Charizard",
+      "imagePath": "charizard.png",
+      "author": "Charmander106",
+      "rdcPath": "charizard.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cheep_cheep",
+      "name": "Cheep Cheep",
+      "imagePath": "cheep_cheep.png",
+      "author": "Faw",
+      "rdcPath": "cheep_cheep.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "chef_pepper",
+      "name": "Chef Pepper",
+      "imagePath": "chef_pepper.png",
+      "author": "MiraPoix",
+      "rdcPath": "chef_pepper.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "chibity",
+      "name": "Chibity",
+      "imagePath": "chibity.png",
+      "author": "Ecyro",
+      "rdcPath": "chibity.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "chrizzz",
+      "name": "Chrizzz",
+      "imagePath": "chrizzz.png",
+      "author": "Chrizzz",
+      "rdcPath": "chrizzz.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "chrono",
+      "name": "Chrono",
+      "imagePath": "chrono.png",
+      "author": "Dr. Deadrewski",
+      "rdcPath": "chrono.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cinna",
+      "name": "Cinna",
+      "imagePath": "cinna.png",
+      "author": "norskmatty",
+      "rdcPath": "cinna.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cirno",
+      "name": "Cirno",
+      "imagePath": "cirno.png",
+      "author": "Achy",
+      "rdcPath": "cirno.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "clifford",
+      "name": "Clifford",
+      "imagePath": "clifford.png",
+      "author": "PlaguedOne",
+      "rdcPath": "clifford.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "clippy",
+      "name": "Clippy",
+      "imagePath": "clippy.png",
+      "author": "PlaguedOne",
+      "rdcPath": "clippy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cloud",
+      "name": "Cloud",
+      "imagePath": "cloud.png",
+      "author": "FedoraFriday",
+      "rdcPath": "cloud.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "clyde",
+      "name": "Clyde",
+      "imagePath": "clyde.png",
+      "author": "Artheau",
+      "rdcPath": "clyde.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "conker_neo",
+      "name": "Conker Neo",
+      "imagePath": "conker_neo.png",
+      "author": "Erock Kerberos Chew",
+      "rdcPath": "conker_neo.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "conker",
+      "name": "Conker",
+      "imagePath": "conker.png",
+      "author": "Charmander106/SePH",
+      "rdcPath": "conker.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cool_90s_bun",
+      "name": "Cool 90s Bun",
+      "imagePath": "cool_90s_bun.png",
+      "author": "Gwenegade`",
+      "rdcPath": "cool_90s_bun.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cool_90s_link",
+      "name": "Cool 90s Link",
+      "imagePath": "cool_90s_link.png",
+      "author": "Gwenegade",
+      "rdcPath": "cool_90s_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cornelius",
+      "name": "Cornelius",
+      "imagePath": "cornelius.png",
+      "author": "Lori",
+      "rdcPath": "cornelius.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "corona",
+      "name": "Corona",
+      "imagePath": "corona.png",
+      "author": "Herowho",
+      "rdcPath": "corona.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cousin_knol",
+      "name": "Cousin Knol",
+      "imagePath": "cousin_knol.png",
+      "author": "Tryford",
+      "rdcPath": "cousin_knol.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "crewmate",
+      "name": "Crewmate",
+      "imagePath": "crewmate.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "crewmate.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cucco",
+      "name": "Cucco",
+      "imagePath": "cucco.png",
+      "author": "Minnie Trethewey",
+      "rdcPath": "cucco.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "cursor",
+      "name": "Cursor",
+      "imagePath": "cursor.png",
+      "author": "PlaguedOne",
+      "rdcPath": "cursor.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "d_owls",
+      "name": "D.Owls",
+      "imagePath": "d_owls.png",
+      "author": "D.Owls",
+      "rdcPath": "d_owls.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dark_link_damien",
+      "name": "Dark Link Damien",
+      "imagePath": "dark_link_damien.png",
+      "author": "Damien Jacobs",
+      "rdcPath": "dark_link_damien.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dark_matter",
+      "name": "Dark Matter",
+      "imagePath": "dark_matter.png",
+      "author": "Lougaroc",
+      "rdcPath": "dark_matter.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dark_panda",
+      "name": "Dark Panda",
+      "imagePath": "dark_panda.png",
+      "author": "MM102",
+      "rdcPath": "dark_panda.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "deadpool_mythic_",
+      "name": "Deadpool (Mythic)",
+      "imagePath": "deadpool_mythic_.png",
+      "author": "Mythic",
+      "rdcPath": "deadpool_mythic_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "deadpool_sirczah_",
+      "name": "Deadpool (SirCzah)",
+      "imagePath": "deadpool_sirczah_.png",
+      "author": "SirCzah",
+      "rdcPath": "deadpool_sirczah_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "deadrock",
+      "name": "Deadrock",
+      "imagePath": "deadrock.png",
+      "author": "Glan",
+      "rdcPath": "deadrock.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "decidueye",
+      "name": "Decidueye",
+      "imagePath": "decidueye.png",
+      "author": "Achy",
+      "rdcPath": "decidueye.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dekar",
+      "name": "Dekar",
+      "imagePath": "dekar.png",
+      "author": "The3X",
+      "rdcPath": "dekar.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dennsen86",
+      "name": "Dennsen86",
+      "imagePath": "dennsen86.png",
+      "author": "Bonzaibier",
+      "rdcPath": "dennsen86.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "diddy_kong",
+      "name": "Diddy Kong",
+      "imagePath": "diddy_kong.png",
+      "author": "copybookpizza10",
+      "rdcPath": "diddy_kong.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dig_dug",
+      "name": "Dig Dug",
+      "imagePath": "dig_dug.png",
+      "author": "kan",
+      "rdcPath": "dig_dug.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dipper",
+      "name": "Dipper",
+      "imagePath": "dipper.png",
+      "author": "Sharpefern",
+      "rdcPath": "dipper.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "discord",
+      "name": "Discord",
+      "imagePath": "discord.png",
+      "author": "JerryEris",
+      "rdcPath": "discord.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dot_lvl",
+      "name": "Dot_lvl",
+      "imagePath": "dot_lvl.png",
+      "author": "happytoaster",
+      "rdcPath": "dot_lvl.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dq_slime",
+      "name": "DQ Slime",
+      "imagePath": "dq_slime.png",
+      "author": "KamenRideDecade",
+      "rdcPath": "dq_slime.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dr_treymond_spyre_spyreson_iii",
+      "name": "Dr. Treymond Spyre Spyreson III",
+      "imagePath": "dr_treymond_spyre_spyreson_iii.png",
+      "author": "Drieky",
+      "rdcPath": "dr_treymond_spyre_spyreson_iii.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dragonair",
+      "name": "Dragonair",
+      "imagePath": "dragonair.png",
+      "author": "Drieky",
+      "rdcPath": "dragonair.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "dragonite",
+      "name": "Dragonite",
+      "imagePath": "dragonite.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "dragonite.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "drake_the_dragon",
+      "name": "Drake The Dragon",
+      "imagePath": "drake_the_dragon.png",
+      "author": "No Body The Dragon",
+      "rdcPath": "drake_the_dragon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "drawcia",
+      "name": "Drawcia",
+      "imagePath": "drawcia.png",
+      "author": "Plouni",
+      "rdcPath": "drawcia.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "eevee",
+      "name": "Eevee",
+      "imagePath": "eevee.png",
+      "author": "Drieky",
+      "rdcPath": "eevee.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "eggplant",
+      "name": "Eggplant",
+      "imagePath": "eggplant.png",
+      "author": "PlaguedOne",
+      "rdcPath": "eggplant.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "eirika",
+      "name": "Eirika",
+      "imagePath": "eirika.png",
+      "author": "Lougaroc",
+      "rdcPath": "eirika.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "elfilin",
+      "name": "Elfilin",
+      "imagePath": "elfilin.png",
+      "author": "Plouni",
+      "rdcPath": "elfilin.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ema_skye",
+      "name": "Ema Skye",
+      "imagePath": "ema_skye.png",
+      "author": "Linlinlin",
+      "rdcPath": "ema_skye.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "espeon",
+      "name": "Espeon",
+      "imagePath": "espeon.png",
+      "author": "Drieky",
+      "rdcPath": "espeon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ezlo",
+      "name": "Ezlo",
+      "imagePath": "ezlo.png",
+      "author": "cbass601",
+      "rdcPath": "ezlo.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "fi",
+      "name": "Fi",
+      "imagePath": "fi.png",
+      "author": "Lougaroc",
+      "rdcPath": "fi.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "fierce_deity_link",
+      "name": "Fierce Deity Link",
+      "imagePath": "fierce_deity_link.png",
+      "author": "Jeffreygriggs2",
+      "rdcPath": "fierce_deity_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "figaro_merchant",
+      "name": "Figaro Merchant",
+      "imagePath": "figaro_merchant.png",
+      "author": "Artheau",
+      "rdcPath": "figaro_merchant.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "finn_merten",
+      "name": "Finn Merten",
+      "imagePath": "finn_merten.png",
+      "author": "Devan2002",
+      "rdcPath": "finn_merten.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "finny_bear",
+      "name": "Finny Bear",
+      "imagePath": "finny_bear.png",
+      "author": "skovacs1",
+      "rdcPath": "finny_bear.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "flareon",
+      "name": "Flareon",
+      "imagePath": "flareon.png",
+      "author": "Drieky",
+      "rdcPath": "flareon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "flavor_guy",
+      "name": "Flavor Guy",
+      "imagePath": "flavor_guy.png",
+      "author": "PlaguedOne",
+      "rdcPath": "flavor_guy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "floodgate_fish",
+      "name": "Floodgate Fish",
+      "imagePath": "floodgate_fish.png",
+      "author": "Delphi1024",
+      "rdcPath": "floodgate_fish.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "four_swords_link",
+      "name": "Four Swords Link",
+      "imagePath": "four_swords_link.png",
+      "author": "Minnie Trethewey",
+      "rdcPath": "four_swords_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "fox_link",
+      "name": "Fox Link",
+      "imagePath": "fox_link.png",
+      "author": "InTheBeef",
+      "rdcPath": "fox_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "fransen",
+      "name": "Fransen",
+      "imagePath": "fransen.png",
+      "author": "Distelschweif",
+      "rdcPath": "fransen.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "freya_crescent",
+      "name": "Freya Crescent",
+      "imagePath": "freya_crescent.png",
+      "author": "Demoncraze",
+      "rdcPath": "freya_crescent.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "frisk",
+      "name": "Frisk",
+      "imagePath": "frisk.png",
+      "author": "Toby Fox/MisterKerr",
+      "rdcPath": "frisk.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "frog_link",
+      "name": "Frog Link",
+      "imagePath": "frog_link.png",
+      "author": "Minnie Trethewey",
+      "rdcPath": "frog_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "fujin",
+      "name": "Fujin",
+      "imagePath": "fujin.png",
+      "author": "FujinAkari",
+      "rdcPath": "fujin.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "future_trunks",
+      "name": "Future Trunks",
+      "imagePath": "future_trunks.png",
+      "author": "Merciter",
+      "rdcPath": "future_trunks.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "gamer",
+      "name": "Gamer",
+      "imagePath": "gamer.png",
+      "rdcPath": "gamer.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ganondorf",
+      "name": "Ganondorf",
+      "imagePath": "ganondorf.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "ganondorf.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "garfield",
+      "name": "Garfield",
+      "imagePath": "garfield.png",
+      "author": "Fwiller",
+      "rdcPath": "garfield.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "garnet",
+      "name": "Garnet",
+      "imagePath": "garnet.png",
+      "author": "Artheau",
+      "rdcPath": "garnet.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "garo_master",
+      "name": "Garo Master",
+      "imagePath": "garo_master.png",
+      "author": "Herowho",
+      "rdcPath": "garo_master.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "gbc_link",
+      "name": "GBC Link",
+      "imagePath": "gbc_link.png",
+      "author": "skovacs1",
+      "rdcPath": "gbc_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "geno",
+      "name": "Geno",
+      "imagePath": "geno.png",
+      "author": "FedoraFriday",
+      "rdcPath": "geno.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "gina_lestrade",
+      "name": "Gina Lestrade",
+      "imagePath": "gina_lestrade.png",
+      "author": "PikminWarrior",
+      "rdcPath": "gina_lestrade.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "gliitchwiitch",
+      "name": "GliitchWiitch",
+      "imagePath": "gliitchwiitch.png",
+      "author": "Ivy-IV",
+      "rdcPath": "gliitchwiitch.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "go_mode",
+      "name": "Go Mode",
+      "imagePath": "go_mode.png",
+      "author": "Zero Meaning",
+      "rdcPath": "go_mode.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "gobli",
+      "name": "Gobli",
+      "imagePath": "gobli.png",
+      "author": "Lantis",
+      "rdcPath": "gobli.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "goemon",
+      "name": "Goemon",
+      "imagePath": "goemon.png",
+      "author": "norskmatty",
+      "rdcPath": "goemon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "gooey",
+      "name": "Gooey",
+      "imagePath": "gooey.png",
+      "author": "Lougaroc",
+      "rdcPath": "gooey.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "goomba",
+      "name": "Goomba",
+      "imagePath": "goomba.png",
+      "author": "SirCzah",
+      "rdcPath": "goomba.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "goose",
+      "name": "Goose",
+      "imagePath": "goose.png",
+      "author": "Jam",
+      "rdcPath": "goose.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "graalian_noob",
+      "name": "Graalian Noob",
+      "imagePath": "graalian_noob.png",
+      "author": "EGamer2",
+      "rdcPath": "graalian_noob.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "grandpoobear",
+      "name": "GrandPOOBear",
+      "imagePath": "grandpoobear.png",
+      "author": "proximitysound",
+      "rdcPath": "grandpoobear.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "gretis",
+      "name": "Gretis",
+      "imagePath": "gretis.png",
+      "author": "SnakeGrunger",
+      "rdcPath": "gretis.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "growlithe",
+      "name": "Growlithe",
+      "imagePath": "growlithe.png",
+      "author": "Drieky",
+      "rdcPath": "growlithe.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "gruncle_stan",
+      "name": "Gruncle Stan",
+      "imagePath": "gruncle_stan.png",
+      "author": "SirCzah",
+      "rdcPath": "gruncle_stan.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "guiz",
+      "name": "Guiz",
+      "imagePath": "guiz.png",
+      "author": "GuizDP",
+      "rdcPath": "guiz.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hainz_the_bl_haj",
+      "name": "Hainz the Blåhaj",
+      "imagePath": "hainz_the_bl_haj.png",
+      "author": "Nekoni_Hoozuki",
+      "rdcPath": "hainz_the_bl_haj.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hamtaro",
+      "name": "Hamtaro",
+      "imagePath": "hamtaro.png",
+      "author": "NO Body the Dragon",
+      "rdcPath": "hamtaro.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hanna",
+      "name": "Hanna",
+      "imagePath": "hanna.png",
+      "author": "Maya Neko Comics",
+      "rdcPath": "hanna.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hardhat_beetle",
+      "name": "Hardhat Beetle",
+      "imagePath": "hardhat_beetle.png",
+      "author": "Artheau",
+      "rdcPath": "hardhat_beetle.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hat_kid",
+      "name": "Hat Kid",
+      "imagePath": "hat_kid.png",
+      "author": "skovacs1",
+      "rdcPath": "hat_kid.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "head_link",
+      "name": "Head Link",
+      "imagePath": "head_link.png",
+      "author": "TarThoron",
+      "rdcPath": "head_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "headless_link",
+      "name": "Headless Link",
+      "imagePath": "headless_link.png",
+      "author": "kan",
+      "rdcPath": "headless_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "heem",
+      "name": "Heem",
+      "imagePath": "heem.png",
+      "author": "Xonmean",
+      "rdcPath": "heem.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hello_kitty",
+      "name": "Hello Kitty",
+      "imagePath": "hello_kitty.png",
+      "author": "qeeen",
+      "rdcPath": "hello_kitty.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hero_of_awakening",
+      "name": "Hero of Awakening",
+      "imagePath": "hero_of_awakening.png",
+      "author": "Vonyee",
+      "rdcPath": "hero_of_awakening.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hero_of_hyrule",
+      "name": "Hero of Hyrule",
+      "imagePath": "hero_of_hyrule.png",
+      "author": "Vonyee",
+      "rdcPath": "hero_of_hyrule.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hidari",
+      "name": "Hidari",
+      "imagePath": "hidari.png",
+      "author": "Hidari",
+      "rdcPath": "hidari.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hint_tile",
+      "name": "Hint Tile",
+      "imagePath": "hint_tile.png",
+      "author": "PlaguedOne",
+      "rdcPath": "hint_tile.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hitsuyan1337",
+      "name": "Hitsuyan1337",
+      "imagePath": "hitsuyan1337.png",
+      "author": "BOtheMighty",
+      "rdcPath": "hitsuyan1337.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hoarder_bush_",
+      "name": "Hoarder (Bush)",
+      "imagePath": "hoarder_bush_.png",
+      "author": "Restomak",
+      "rdcPath": "hoarder_bush_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hoarder_pot_",
+      "name": "Hoarder (Pot)",
+      "imagePath": "hoarder_pot_.png",
+      "author": "Restomak",
+      "rdcPath": "hoarder_pot_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hoarder_rock_",
+      "name": "Hoarder (Rock)",
+      "imagePath": "hoarder_rock_.png",
+      "author": "Restomak",
+      "rdcPath": "hoarder_rock_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hollow_knight_malmo_winter_",
+      "name": "Hollow Knight (Malmo+Winter)",
+      "imagePath": "hollow_knight_malmo_winter_.png",
+      "author": "Malmo and Atth3h3art0fwinter",
+      "rdcPath": "hollow_knight_malmo_winter_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hollow_knight",
+      "name": "Hollow Knight",
+      "imagePath": "hollow_knight.png",
+      "author": "Chew_Terr",
+      "rdcPath": "hollow_knight.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "homer_simpson",
+      "name": "Homer Simpson",
+      "imagePath": "homer_simpson.png",
+      "author": "Fwiller",
+      "rdcPath": "homer_simpson.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hornet",
+      "name": "Hornet",
+      "imagePath": "hornet.png",
+      "author": "Spiffy",
+      "rdcPath": "hornet.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "horseman",
+      "name": "Horseman",
+      "imagePath": "horseman.png",
+      "author": "FedoraFriday",
+      "rdcPath": "horseman.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hotdog",
+      "name": "Hotdog",
+      "imagePath": "hotdog.png",
+      "author": "Xag & Tylo",
+      "rdcPath": "hotdog.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hyrule_knight",
+      "name": "Hyrule Knight",
+      "imagePath": "hyrule_knight.png",
+      "author": "InTheBeef",
+      "rdcPath": "hyrule_knight.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "hyrule_soldier",
+      "name": "Hyrule Soldier",
+      "imagePath": "hyrule_soldier.png",
+      "author": "InTheBeef",
+      "rdcPath": "hyrule_soldier.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ignignokt",
+      "name": "Ignignokt",
+      "imagePath": "ignignokt.png",
+      "author": "kan",
+      "rdcPath": "ignignokt.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "informant_woman",
+      "name": "Informant Woman",
+      "imagePath": "informant_woman.png",
+      "author": "Herowho",
+      "rdcPath": "informant_woman.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "inkling",
+      "name": "Inkling",
+      "imagePath": "inkling.png",
+      "author": "RyuTech",
+      "rdcPath": "inkling.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "invisible_link",
+      "name": "Invisible Link",
+      "imagePath": "invisible_link.png",
+      "author": "Minnie Trethewey",
+      "rdcPath": "invisible_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "jack_frost",
+      "name": "Jack Frost",
+      "imagePath": "jack_frost.png",
+      "author": "xypotion",
+      "rdcPath": "jack_frost.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "jason_frudnick",
+      "name": "Jason Frudnick",
+      "imagePath": "jason_frudnick.png",
+      "author": "Artheau",
+      "rdcPath": "jason_frudnick.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "jasp",
+      "name": "Jasp",
+      "imagePath": "jasp.png",
+      "author": "Chonixtu",
+      "rdcPath": "jasp.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "jogurt",
+      "name": "Jogurt",
+      "imagePath": "jogurt.png",
+      "author": "Nakuri",
+      "rdcPath": "jogurt.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "jolteon",
+      "name": "Jolteon",
+      "imagePath": "jolteon.png",
+      "author": "Drieky",
+      "rdcPath": "jolteon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "joshtriangles",
+      "name": "JoshTriangles",
+      "imagePath": "joshtriangles.png",
+      "author": "RaylaRabbit",
+      "rdcPath": "joshtriangles.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "juste_belmont",
+      "name": "Juste Belmont",
+      "imagePath": "juste_belmont.png",
+      "author": "Nolouls",
+      "rdcPath": "juste_belmont.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "juzcook",
+      "name": "Juzcook",
+      "imagePath": "juzcook.png",
+      "author": "FedoraFriday",
+      "rdcPath": "juzcook.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kaguya",
+      "name": "Kaguya",
+      "imagePath": "kaguya.png",
+      "author": "Linlinlin",
+      "rdcPath": "kaguya.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kain",
+      "name": "Kain",
+      "imagePath": "kain.png",
+      "author": "Chew Terr",
+      "rdcPath": "kain.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kakyoin",
+      "name": "Kakyoin",
+      "imagePath": "kakyoin.png",
+      "author": "blanketc (pearl)",
+      "rdcPath": "kakyoin.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "katsura",
+      "name": "Katsura",
+      "imagePath": "katsura.png",
+      "author": "atth3h3art0fwinter",
+      "rdcPath": "katsura.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kecleon",
+      "name": "Kecleon",
+      "imagePath": "kecleon.png",
+      "author": "Gylergin",
+      "rdcPath": "kecleon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kefka",
+      "name": "Kefka",
+      "imagePath": "kefka.png",
+      "author": "Chew Terr",
+      "rdcPath": "kefka.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kenny_mccormick",
+      "name": "Kenny McCormick",
+      "imagePath": "kenny_mccormick.png",
+      "author": "Artheau",
+      "rdcPath": "kenny_mccormick.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ketchup",
+      "name": "Ketchup",
+      "imagePath": "ketchup.png",
+      "author": "t0uchan",
+      "rdcPath": "ketchup.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kholdstare",
+      "name": "Kholdstare",
+      "imagePath": "kholdstare.png",
+      "author": "kan",
+      "rdcPath": "kholdstare.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "king_gothalion",
+      "name": "King Gothalion",
+      "imagePath": "king_gothalion.png",
+      "author": "kickpixel",
+      "rdcPath": "king_gothalion.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "king_graham",
+      "name": "King Graham",
+      "imagePath": "king_graham.png",
+      "author": "MisterKerr",
+      "rdcPath": "king_graham.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kinu",
+      "name": "Kinu",
+      "imagePath": "kinu.png",
+      "author": "UberNooga",
+      "rdcPath": "kinu.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kira",
+      "name": "Kira",
+      "imagePath": "kira.png",
+      "author": "Maya Neko Comics",
+      "rdcPath": "kira.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kirby_dreamland_3_",
+      "name": "Kirby (Dreamland 3)",
+      "imagePath": "kirby_dreamland_3_.png",
+      "author": "Plouni",
+      "rdcPath": "kirby_dreamland_3_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kirby",
+      "name": "Kirby",
+      "imagePath": "kirby.png",
+      "author": "KHRoxas",
+      "rdcPath": "kirby.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kite",
+      "name": "Kite",
+      "imagePath": "kite.png",
+      "author": "scoutjd",
+      "rdcPath": "kite.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "koda",
+      "name": "Koda",
+      "imagePath": "koda.png",
+      "author": "Koda",
+      "rdcPath": "koda.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "koragi",
+      "name": "Koragi",
+      "imagePath": "koragi.png",
+      "author": "Antroyst",
+      "rdcPath": "koragi.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kore8",
+      "name": "Kore8",
+      "imagePath": "kore8.png",
+      "author": "Skewer",
+      "rdcPath": "kore8.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "korok",
+      "name": "Korok",
+      "imagePath": "korok.png",
+      "author": "atth3h3art0fwinter",
+      "rdcPath": "korok.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kris",
+      "name": "Kris",
+      "imagePath": "kris.png",
+      "author": "nani6400",
+      "rdcPath": "kris.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "krissy",
+      "name": "Krissy",
+      "imagePath": "krissy.png",
+      "author": "_aitchFactor",
+      "rdcPath": "krissy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kriv",
+      "name": "Kriv",
+      "imagePath": "kriv.png",
+      "author": "UltChimi",
+      "rdcPath": "kriv.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "kromb",
+      "name": "Kromb",
+      "imagePath": "kromb.png",
+      "author": "Nekoni_Hoozuki",
+      "rdcPath": "kromb.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lakitu",
+      "name": "Lakitu",
+      "imagePath": "lakitu.png",
+      "author": "SirCzah",
+      "rdcPath": "lakitu.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lapras",
+      "name": "Lapras",
+      "imagePath": "lapras.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "lapras.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "latias",
+      "name": "Latias",
+      "imagePath": "latias.png",
+      "author": "WiipartyU",
+      "rdcPath": "latias.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "latios",
+      "name": "Latios",
+      "imagePath": "latios.png",
+      "author": "WiipartyU",
+      "rdcPath": "latios.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "leafeon",
+      "name": "Leafeon",
+      "imagePath": "leafeon.png",
+      "author": "Drieky",
+      "rdcPath": "leafeon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "leongar",
+      "name": "Leongar",
+      "imagePath": "leongar.png",
+      "author": "Lougaroc",
+      "rdcPath": "leongar.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lest",
+      "name": "Lest",
+      "imagePath": "lest.png",
+      "author": "PrideToRuleEarth",
+      "rdcPath": "lest.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lestat",
+      "name": "Lestat",
+      "imagePath": "lestat.png",
+      "author": "Ziusudra",
+      "rdcPath": "lestat.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lily",
+      "name": "Lily",
+      "imagePath": "lily.png",
+      "author": "ScatlinkSean",
+      "rdcPath": "lily.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "linja",
+      "name": "Linja",
+      "imagePath": "linja.png",
+      "author": "Razhagal",
+      "rdcPath": "linja.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "link_redrawn",
+      "name": "Link Redrawn",
+      "imagePath": "link_redrawn.png",
+      "author": "Spiffy",
+      "rdcPath": "link_redrawn.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "little_hylian",
+      "name": "Little Hylian",
+      "imagePath": "little_hylian.png",
+      "author": "MM102",
+      "rdcPath": "little_hylian.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "locke",
+      "name": "Locke",
+      "imagePath": "locke.png",
+      "author": "Rose",
+      "rdcPath": "locke.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "love_shak",
+      "name": "Love Shak",
+      "imagePath": "love_shak.png",
+      "author": "Fragger",
+      "rdcPath": "love_shak.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lucario",
+      "name": "Lucario",
+      "imagePath": "lucario.png",
+      "author": "Achy",
+      "rdcPath": "lucario.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lucas",
+      "name": "Lucas",
+      "imagePath": "lucas.png",
+      "author": "Plouni",
+      "rdcPath": "lucas.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "luckwurstjoe",
+      "name": "LuckwurstJoe",
+      "imagePath": "luckwurstjoe.png",
+      "author": "LuckwurstJoe/Nekoni_Hoozuki",
+      "rdcPath": "luckwurstjoe.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "luigi",
+      "name": "Luigi",
+      "imagePath": "luigi.png",
+      "author": "Achy",
+      "rdcPath": "luigi.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lumberjack",
+      "name": "Lumberjack",
+      "imagePath": "lumberjack.png",
+      "author": "norskmatty",
+      "rdcPath": "lumberjack.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "luna_maindo",
+      "name": "Luna Maindo",
+      "imagePath": "luna_maindo.png",
+      "author": "IkkyLights",
+      "rdcPath": "luna_maindo.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lycanroc",
+      "name": "Lycanroc",
+      "imagePath": "lycanroc.png",
+      "author": "Lougaroc",
+      "rdcPath": "lycanroc.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lynea",
+      "name": "Lynea",
+      "imagePath": "lynea.png",
+      "author": "Artimus83/Nekoni_Hoozuki",
+      "rdcPath": "lynea.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "lynel_botw_",
+      "name": "Lynel (BotW)",
+      "imagePath": "lynel_botw_.png",
+      "author": "Lougaroc",
+      "rdcPath": "lynel_botw_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mad_tears",
+      "name": "Mad_Tears",
+      "imagePath": "mad_tears.png",
+      "author": "littlefatpanda",
+      "rdcPath": "mad_tears.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "madeline",
+      "name": "Madeline",
+      "imagePath": "madeline.png",
+      "author": "Jam",
+      "rdcPath": "madeline.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "magus",
+      "name": "Magus",
+      "imagePath": "magus.png",
+      "author": "PlaguedOne",
+      "rdcPath": "magus.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "maiden",
+      "name": "Maiden",
+      "imagePath": "maiden.png",
+      "author": "Plan",
+      "rdcPath": "maiden.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "majora_s_mask",
+      "name": "Majora's Mask",
+      "imagePath": "majora_s_mask.png",
+      "author": "Dawn",
+      "rdcPath": "majora_s_mask.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mallow_cat_",
+      "name": "Mallow (Cat)",
+      "imagePath": "mallow_cat_.png",
+      "author": "FedoraFriday",
+      "rdcPath": "mallow_cat_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "manga_link",
+      "name": "Manga Link",
+      "imagePath": "manga_link.png",
+      "author": "fatmanspanda",
+      "rdcPath": "manga_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "maple_queen",
+      "name": "Maple Queen",
+      "imagePath": "maple_queen.png",
+      "author": "Zarby89",
+      "rdcPath": "maple_queen.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "marin",
+      "name": "Marin",
+      "imagePath": "marin.png",
+      "author": "Nocturnesthesia",
+      "rdcPath": "marin.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mario_and_cappy",
+      "name": "Mario and Cappy",
+      "imagePath": "mario_and_cappy.png",
+      "author": "Damon",
+      "rdcPath": "mario_and_cappy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mario_classic_",
+      "name": "Mario (Classic)",
+      "imagePath": "mario_classic_.png",
+      "author": "Damon",
+      "rdcPath": "mario_classic_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "marisa_kirisame",
+      "name": "Marisa Kirisame",
+      "imagePath": "marisa_kirisame.png",
+      "author": "Achy",
+      "rdcPath": "marisa_kirisame.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "marvin_the_cat",
+      "name": "Marvin the Cat",
+      "imagePath": "marvin_the_cat.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "marvin_the_cat.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "matthias",
+      "name": "Matthias",
+      "imagePath": "matthias.png",
+      "author": "Marcus Bolduc",
+      "rdcPath": "matthias.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "meatwad",
+      "name": "Meatwad",
+      "imagePath": "meatwad.png",
+      "author": "kan",
+      "rdcPath": "meatwad.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "medallions",
+      "name": "Medallions",
+      "imagePath": "medallions.png",
+      "author": "Minnie Trethewey",
+      "rdcPath": "medallions.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "medli",
+      "name": "Medli",
+      "imagePath": "medli.png",
+      "author": "Kzinssie",
+      "rdcPath": "medli.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mega_man_classic_",
+      "name": "Mega Man (Classic)",
+      "imagePath": "mega_man_classic_.png",
+      "author": "CrebleStar",
+      "rdcPath": "mega_man_classic_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "megaman_x2",
+      "name": "Megaman X2",
+      "imagePath": "megaman_x2.png",
+      "author": "PlaguedOne",
+      "rdcPath": "megaman_x2.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "megaman_x",
+      "name": "Megaman X",
+      "imagePath": "megaman_x.png",
+      "author": "PlaguedOne",
+      "rdcPath": "megaman_x.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "meta_knight",
+      "name": "Meta Knight",
+      "imagePath": "meta_knight.png",
+      "author": "Plouni",
+      "rdcPath": "meta_knight.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "meteion",
+      "name": "Meteion",
+      "imagePath": "meteion.png",
+      "author": "MintToBe",
+      "rdcPath": "meteion.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mewlp",
+      "name": "MewLp",
+      "imagePath": "mewlp.png",
+      "author": "MewLp",
+      "rdcPath": "mewlp.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mike_jones",
+      "name": "Mike Jones",
+      "imagePath": "mike_jones.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "mike_jones.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "milly",
+      "name": "Milly",
+      "imagePath": "milly.png",
+      "author": "Acmlm",
+      "rdcPath": "milly.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mimic",
+      "name": "Mimic",
+      "imagePath": "mimic.png",
+      "author": "Chew Terr",
+      "rdcPath": "mimic.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mimikyu",
+      "name": "Mimikyu",
+      "imagePath": "mimikyu.png",
+      "author": "Plouni",
+      "rdcPath": "mimikyu.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mini_ganon",
+      "name": "Mini Ganon",
+      "imagePath": "mini_ganon.png",
+      "author": "atth3h3art0fwinter",
+      "rdcPath": "mini_ganon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "minish_link",
+      "name": "Minish Link",
+      "imagePath": "minish_link.png",
+      "author": "Artheau",
+      "rdcPath": "minish_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "minish_cap_link",
+      "name": "Minish Cap Link",
+      "imagePath": "minish_cap_link.png",
+      "author": "InTheBeef",
+      "rdcPath": "minish_cap_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mipha",
+      "name": "Mipha",
+      "imagePath": "mipha.png",
+      "author": "RippedSnorlax",
+      "rdcPath": "mipha.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "missingno",
+      "name": "missingno",
+      "imagePath": "missingno.png",
+      "author": "AAhbxsujd",
+      "rdcPath": "missingno.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "moblin",
+      "name": "Moblin",
+      "imagePath": "moblin.png",
+      "author": "Noctai_",
+      "rdcPath": "moblin.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "moechicken",
+      "name": "MoeChicken",
+      "imagePath": "moechicken.png",
+      "author": "MoeChicken",
+      "rdcPath": "moechicken.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mog",
+      "name": "Mog",
+      "imagePath": "mog.png",
+      "author": "Krelbel",
+      "rdcPath": "mog.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "momiji_inubashiri",
+      "name": "Momiji Inubashiri",
+      "imagePath": "momiji_inubashiri.png",
+      "author": "Ardaceus",
+      "rdcPath": "momiji_inubashiri.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "moosh",
+      "name": "Moosh",
+      "imagePath": "moosh.png",
+      "author": "PlaguedOne",
+      "rdcPath": "moosh.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "mouse",
+      "name": "Mouse",
+      "imagePath": "mouse.png",
+      "author": "Malthaez",
+      "rdcPath": "mouse.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ms_paint_dog",
+      "name": "Ms. Paint Dog",
+      "imagePath": "ms_paint_dog.png",
+      "author": "TehRealSalt",
+      "rdcPath": "ms_paint_dog.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "power_up_with_pride_mushroom",
+      "name": "Power Up with Pride Mushroom",
+      "imagePath": "power_up_with_pride_mushroom.png",
+      "author": "Achy",
+      "rdcPath": "power_up_with_pride_mushroom.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "navi",
+      "name": "Navi",
+      "imagePath": "navi.png",
+      "author": "qwertymodo",
+      "rdcPath": "navi.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "navirou",
+      "name": "Navirou",
+      "imagePath": "navirou.png",
+      "author": "Lori",
+      "rdcPath": "navirou.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "nayada",
+      "name": "Nayada",
+      "imagePath": "nayada.png",
+      "author": "Plouni",
+      "rdcPath": "nayada.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "necrosky90",
+      "name": "Necrosky90",
+      "imagePath": "necrosky90.png",
+      "author": "Necrosky90",
+      "rdcPath": "necrosky90.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ned_flanders",
+      "name": "Ned Flanders",
+      "imagePath": "ned_flanders.png",
+      "author": "JJ0033LL",
+      "rdcPath": "ned_flanders.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "nekoni_hoozuki",
+      "name": "Nekoni Hoozuki",
+      "imagePath": "nekoni_hoozuki.png",
+      "author": "Nekoni_Hoozuki",
+      "rdcPath": "nekoni_hoozuki.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "neosad",
+      "name": "Neosad",
+      "imagePath": "neosad.png",
+      "author": "Dr. Deadrewski",
+      "rdcPath": "neosad.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "nepgear",
+      "name": "Nepgear",
+      "imagePath": "nepgear.png",
+      "author": "HoxNorf",
+      "rdcPath": "nepgear.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "neptune",
+      "name": "Neptune",
+      "imagePath": "neptune.png",
+      "author": "HoxNorf",
+      "rdcPath": "neptune.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "nes_link",
+      "name": "NES Link",
+      "imagePath": "nes_link.png",
+      "author": "Minnie Trethewey/kan",
+      "rdcPath": "nes_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ness_earthbound_",
+      "name": "Ness (Earthbound)",
+      "imagePath": "ness_earthbound_.png",
+      "author": "Lantis",
+      "rdcPath": "ness_earthbound_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "nia",
+      "name": "Nia",
+      "imagePath": "nia.png",
+      "author": "Mojonbo",
+      "rdcPath": "nia.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "niddraig",
+      "name": "Niddraig",
+      "imagePath": "niddraig.png",
+      "author": "Jakebob",
+      "rdcPath": "niddraig.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "niko",
+      "name": "Niko",
+      "imagePath": "niko.png",
+      "author": "ScatlinkSean",
+      "rdcPath": "niko.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ninten",
+      "name": "Ninten",
+      "imagePath": "ninten.png",
+      "author": "Plouni",
+      "rdcPath": "ninten.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "octorok",
+      "name": "Octorok",
+      "imagePath": "octorok.png",
+      "author": "Fire-Luigi",
+      "rdcPath": "octorok.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "old_man",
+      "name": "Old Man",
+      "imagePath": "old_man.png",
+      "author": "Zarby89",
+      "rdcPath": "old_man.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "olde_man",
+      "name": "Olde Man",
+      "imagePath": "olde_man.png",
+      "author": "Justin",
+      "rdcPath": "olde_man.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ori",
+      "name": "Ori",
+      "imagePath": "ori.png",
+      "author": "Phant",
+      "rdcPath": "ori.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "outline_link",
+      "name": "Outline Link",
+      "imagePath": "outline_link.png",
+      "author": "VT",
+      "rdcPath": "outline_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "paper_mario",
+      "name": "Paper Mario",
+      "imagePath": "paper_mario.png",
+      "author": "Fire-Luigi",
+      "rdcPath": "paper_mario.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "parallel_worlds_link",
+      "name": "Parallel Worlds Link",
+      "imagePath": "parallel_worlds_link.png",
+      "author": "SePH/InTheBeef",
+      "rdcPath": "parallel_worlds_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "patia",
+      "name": "Patia",
+      "imagePath": "patia.png",
+      "author": "AaronDobbe",
+      "rdcPath": "patia.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "paul_the_woodsman",
+      "name": "Paul the Woodsman",
+      "imagePath": "paul_the_woodsman.png",
+      "author": "Tryford",
+      "rdcPath": "paul_the_woodsman.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "paula",
+      "name": "Paula",
+      "imagePath": "paula.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "paula.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "penguin_link",
+      "name": "Penguin Link",
+      "imagePath": "penguin_link.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "penguin_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "pete_harvest_moon_",
+      "name": "Pete (Harvest Moon)",
+      "imagePath": "pete_harvest_moon_.png",
+      "author": "Lantis",
+      "rdcPath": "pete_harvest_moon_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "phoenix_wright",
+      "name": "Phoenix Wright",
+      "imagePath": "phoenix_wright.png",
+      "author": "SnipSlum",
+      "rdcPath": "phoenix_wright.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "pikachu",
+      "name": "Pikachu",
+      "imagePath": "pikachu.png",
+      "author": "toucansham",
+      "rdcPath": "pikachu.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "pink_ribbon_link",
+      "name": "Pink Ribbon Link",
+      "imagePath": "pink_ribbon_link.png",
+      "author": "fatmanspanda",
+      "rdcPath": "pink_ribbon_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "plague_knight",
+      "name": "Plague Knight",
+      "imagePath": "plague_knight.png",
+      "author": "Jenichi",
+      "rdcPath": "plague_knight.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "plouni",
+      "name": "Plouni",
+      "imagePath": "plouni.png",
+      "author": "Plouni",
+      "rdcPath": "plouni.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "poc_link",
+      "name": "PoC Link",
+      "imagePath": "poc_link.png",
+      "author": "Nolouls",
+      "rdcPath": "poc_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "pokey",
+      "name": "Pokey",
+      "imagePath": "pokey.png",
+      "author": "kan",
+      "rdcPath": "pokey.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "pony",
+      "name": "Pony",
+      "imagePath": "pony.png",
+      "author": "Botchos",
+      "rdcPath": "pony.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "popoi",
+      "name": "Popoi",
+      "imagePath": "popoi.png",
+      "author": "ItsSupercar",
+      "rdcPath": "popoi.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "poppy",
+      "name": "Poppy",
+      "imagePath": "poppy.png",
+      "author": "cbass601",
+      "rdcPath": "poppy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "porg_knight",
+      "name": "Porg Knight",
+      "imagePath": "porg_knight.png",
+      "author": "PorgCollector",
+      "rdcPath": "porg_knight.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "power_ranger",
+      "name": "Power Ranger",
+      "imagePath": "power_ranger.png",
+      "author": "Zeta Xero",
+      "rdcPath": "power_ranger.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "powerpuff_girl",
+      "name": "Powerpuff Girl",
+      "imagePath": "powerpuff_girl.png",
+      "author": "Jenichi",
+      "rdcPath": "powerpuff_girl.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "pride_link",
+      "name": "Pride Link",
+      "imagePath": "pride_link.png",
+      "author": "proximitysound",
+      "rdcPath": "pride_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "primm",
+      "name": "Primm",
+      "imagePath": "primm.png",
+      "author": "Artheau",
+      "rdcPath": "primm.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "princess_bubblegum",
+      "name": "Princess Bubblegum",
+      "imagePath": "princess_bubblegum.png",
+      "author": "Devan2002",
+      "rdcPath": "princess_bubblegum.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "princess_peach",
+      "name": "Princess Peach",
+      "imagePath": "princess_peach.png",
+      "author": "RoPan",
+      "rdcPath": "princess_peach.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "prof_renderer_grizzleton",
+      "name": "Prof. Renderer Grizzleton",
+      "imagePath": "prof_renderer_grizzleton.png",
+      "author": "Professor Renderer",
+      "rdcPath": "prof_renderer_grizzleton.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "protogen",
+      "name": "Protogen",
+      "imagePath": "protogen.png",
+      "author": "Purple Peak",
+      "rdcPath": "protogen.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "psyduck",
+      "name": "Psyduck",
+      "imagePath": "psyduck.png",
+      "author": "skovacs1",
+      "rdcPath": "psyduck.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "the_pug",
+      "name": "The Pug",
+      "imagePath": "the_pug.png",
+      "author": "Achy",
+      "rdcPath": "the_pug.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "purple_chest",
+      "name": "Purple Chest",
+      "imagePath": "purple_chest.png",
+      "author": "Minnie Trethewey",
+      "rdcPath": "purple_chest.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "pyro",
+      "name": "Pyro",
+      "imagePath": "pyro.png",
+      "author": "malmo",
+      "rdcPath": "pyro.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "quadbanger",
+      "name": "QuadBanger",
+      "imagePath": "quadbanger.png",
+      "author": "Kai Gomez",
+      "rdcPath": "quadbanger.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rainbow_link",
+      "name": "Rainbow Link",
+      "imagePath": "rainbow_link.png",
+      "author": "kan",
+      "rdcPath": "rainbow_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "randi",
+      "name": "Randi",
+      "imagePath": "randi.png",
+      "author": "RoodyOh",
+      "rdcPath": "randi.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rash",
+      "name": "Rash",
+      "imagePath": "rash.png",
+      "author": "Fragger",
+      "rdcPath": "rash.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rat",
+      "name": "Rat",
+      "imagePath": "rat.png",
+      "author": "atth3h3art0fwinter",
+      "rdcPath": "rat.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "red_mage",
+      "name": "Red Mage",
+      "imagePath": "red_mage.png",
+      "author": "TheRedMage",
+      "rdcPath": "red_mage.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "red",
+      "name": "Red",
+      "imagePath": "red.png",
+      "author": "WiipartyU",
+      "rdcPath": "red.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "reimu_hakurei_hoxnorf_",
+      "name": "Reimu Hakurei (HoxNorf)",
+      "imagePath": "reimu_hakurei_hoxnorf_.png",
+      "author": "HoxNorf",
+      "rdcPath": "reimu_hakurei_hoxnorf_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "reimu_hakurei_rickyofkokiri_",
+      "name": "Reimu Hakurei (RickyofKokiri)",
+      "imagePath": "reimu_hakurei_rickyofkokiri_.png",
+      "author": "RickyofKokiri",
+      "rdcPath": "reimu_hakurei_rickyofkokiri_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "remeer",
+      "name": "Remeer",
+      "imagePath": "remeer.png",
+      "author": "Herowho",
+      "rdcPath": "remeer.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "remus_r_black",
+      "name": "Remus R Black",
+      "imagePath": "remus_r_black.png",
+      "author": "The3rdX",
+      "rdcPath": "remus_r_black.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rick",
+      "name": "Rick",
+      "imagePath": "rick.png",
+      "author": "Eric the Terrible/Devan 2002",
+      "rdcPath": "rick.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "robo_link_9000",
+      "name": "Robo_Link 9000",
+      "imagePath": "robo_link_9000.png",
+      "author": "fatmanspanda",
+      "rdcPath": "robo_link_9000.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rocko",
+      "name": "Rocko",
+      "imagePath": "rocko.png",
+      "author": "toucansham",
+      "rdcPath": "rocko.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "roronoa_zoro",
+      "name": "Roronoa Zoro",
+      "imagePath": "roronoa_zoro.png",
+      "author": "Drieky",
+      "rdcPath": "roronoa_zoro.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rottytops",
+      "name": "Rottytops",
+      "imagePath": "rottytops.png",
+      "author": "PlaguedOne",
+      "rdcPath": "rottytops.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rover",
+      "name": "Rover",
+      "imagePath": "rover.png",
+      "author": "NO Body The Dragon",
+      "rdcPath": "rover.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "roy_koopa",
+      "name": "Roy Koopa",
+      "imagePath": "roy_koopa.png",
+      "author": "Achy",
+      "rdcPath": "roy_koopa.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rozalyndis",
+      "name": "Rozalyndis",
+      "imagePath": "rozalyndis.png",
+      "author": "Unfathomarble",
+      "rdcPath": "rozalyndis.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rumia",
+      "name": "Rumia",
+      "imagePath": "rumia.png",
+      "author": "Achy",
+      "rdcPath": "rumia.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "rydia",
+      "name": "Rydia",
+      "imagePath": "rydia.png",
+      "author": "Sho",
+      "rdcPath": "rydia.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ryu",
+      "name": "Ryu",
+      "imagePath": "ryu.png",
+      "author": "PlaguedOne",
+      "rdcPath": "ryu.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sailor_jupiter",
+      "name": "Sailor Jupiter",
+      "imagePath": "sailor_jupiter.png",
+      "author": "Sharpefern",
+      "rdcPath": "sailor_jupiter.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sailor_mars",
+      "name": "Sailor Mars",
+      "imagePath": "sailor_mars.png",
+      "author": "Sharpefern",
+      "rdcPath": "sailor_mars.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sailor_mercury",
+      "name": "Sailor Mercury",
+      "imagePath": "sailor_mercury.png",
+      "author": "Sharpefern",
+      "rdcPath": "sailor_mercury.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sailor_saturn",
+      "name": "Sailor Saturn",
+      "imagePath": "sailor_saturn.png",
+      "author": "Gwenegade",
+      "rdcPath": "sailor_saturn.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sailor_venus",
+      "name": "Sailor Venus",
+      "imagePath": "sailor_venus.png",
+      "author": "Sharpefern",
+      "rdcPath": "sailor_venus.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sailor_moon",
+      "name": "Sailor Moon",
+      "imagePath": "sailor_moon.png",
+      "author": "Jenichi",
+      "rdcPath": "sailor_moon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "saitama",
+      "name": "Saitama",
+      "imagePath": "saitama.png",
+      "author": "Dabeanjelly/Ath3h3art0fwinter",
+      "rdcPath": "saitama.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "salty_squiddy",
+      "name": "Salty Squiddy",
+      "imagePath": "salty_squiddy.png",
+      "author": "Siletrea",
+      "rdcPath": "salty_squiddy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "samurott",
+      "name": "Samurott",
+      "imagePath": "samurott.png",
+      "author": "Lougaroc",
+      "rdcPath": "samurott.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "samus",
+      "name": "Samus",
+      "imagePath": "samus.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "samus.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "samus_classic_",
+      "name": "Samus (Classic)",
+      "imagePath": "samus_classic_.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "samus_classic_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "samus_super_metroid_",
+      "name": "Samus (Super Metroid)",
+      "imagePath": "samus_super_metroid_.png",
+      "author": "Ben G",
+      "rdcPath": "samus_super_metroid_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "santa_link",
+      "name": "Santa Link",
+      "imagePath": "santa_link.png",
+      "author": "HOHOHO",
+      "rdcPath": "santa_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "saria",
+      "name": "Saria",
+      "imagePath": "saria.png",
+      "author": "JaidynReiman",
+      "rdcPath": "saria.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "scholar",
+      "name": "Scholar",
+      "imagePath": "scholar.png",
+      "author": "Damon",
+      "rdcPath": "scholar.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "selan",
+      "name": "Selan",
+      "imagePath": "selan.png",
+      "author": "atth3h3art0fwinter",
+      "rdcPath": "selan.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sevens1ns",
+      "name": "SevenS1ns",
+      "imagePath": "sevens1ns.png",
+      "author": "Hroun",
+      "rdcPath": "sevens1ns.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shade",
+      "name": "Shade",
+      "imagePath": "shade.png",
+      "author": "NO Body the Dragon",
+      "rdcPath": "shade.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shadow",
+      "name": "Shadow",
+      "imagePath": "shadow.png",
+      "author": "CGG Zayik",
+      "rdcPath": "shadow.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shaktool",
+      "name": "Shaktool",
+      "imagePath": "shaktool.png",
+      "author": "Fragger",
+      "rdcPath": "shaktool.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shantae",
+      "name": "Shantae",
+      "imagePath": "shantae.png",
+      "author": "skovacs1",
+      "rdcPath": "shantae.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shiluna",
+      "name": "Shiluna",
+      "imagePath": "shiluna.png",
+      "author": "Nekoni_Hoozuki",
+      "rdcPath": "shiluna.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shin",
+      "name": "Shin",
+      "imagePath": "shin.png",
+      "author": "Nekoni_Hoozuki",
+      "rdcPath": "shin.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shinmyoumaru_sukuna",
+      "name": "Shinmyoumaru Sukuna",
+      "imagePath": "shinmyoumaru_sukuna.png",
+      "author": "Pasta La Vista",
+      "rdcPath": "shinmyoumaru_sukuna.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shopkeeper_link",
+      "name": "Shopkeeper Link",
+      "imagePath": "shopkeeper_link.png",
+      "author": "mm2nescartridge",
+      "rdcPath": "shopkeeper_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shuppet",
+      "name": "Shuppet",
+      "imagePath": "shuppet.png",
+      "author": "fatmanspanda",
+      "rdcPath": "shuppet.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shy_gal",
+      "name": "Shy Gal",
+      "imagePath": "shy_gal.png",
+      "author": "FedoraFriday",
+      "rdcPath": "shy_gal.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "shy_guy",
+      "name": "Shy Guy",
+      "imagePath": "shy_guy.png",
+      "author": "skovacs1",
+      "rdcPath": "shy_guy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sighnwaive",
+      "name": "SighnWaive",
+      "imagePath": "sighnwaive.png",
+      "author": "GenoCL",
+      "rdcPath": "sighnwaive.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "skunk",
+      "name": "Skunk",
+      "imagePath": "skunk.png",
+      "author": "Hiveul",
+      "rdcPath": "skunk.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "slowpoke",
+      "name": "Slowpoke",
+      "imagePath": "slowpoke.png",
+      "author": "Joey_Rat",
+      "rdcPath": "slowpoke.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "snes_controller",
+      "name": "SNES Controller",
+      "imagePath": "snes_controller.png",
+      "author": "cbass601",
+      "rdcPath": "snes_controller.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sobble",
+      "name": "Sobble",
+      "imagePath": "sobble.png",
+      "author": "Drieky",
+      "rdcPath": "sobble.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "soda_can",
+      "name": "Soda Can",
+      "imagePath": "soda_can.png",
+      "author": "Zarby89",
+      "rdcPath": "soda_can.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sokka",
+      "name": "Sokka",
+      "imagePath": "sokka.png",
+      "author": "Sharpefern",
+      "rdcPath": "sokka.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "solaire_of_astora",
+      "name": "Solaire of Astora",
+      "imagePath": "solaire_of_astora.png",
+      "author": "Knilip",
+      "rdcPath": "solaire_of_astora.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sonic_the_hedgehog",
+      "name": "Sonic the Hedgehog",
+      "imagePath": "sonic_the_hedgehog.png",
+      "author": "Osaka",
+      "rdcPath": "sonic_the_hedgehog.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sora",
+      "name": "Sora",
+      "imagePath": "sora.png",
+      "author": "roxas232",
+      "rdcPath": "sora.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "sora_kh1_",
+      "name": "Sora (KH1)",
+      "imagePath": "sora_kh1_.png",
+      "author": "ScatlinkSean",
+      "rdcPath": "sora_kh1_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "spamton_g_spamton",
+      "name": "Spamton G. Spamton",
+      "imagePath": "spamton_g_spamton.png",
+      "author": "Pasta La Vista",
+      "rdcPath": "spamton_g_spamton.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "spat",
+      "name": "Spat",
+      "imagePath": "spat.png",
+      "author": "NO Body the Dragon",
+      "rdcPath": "spat.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "spiked_roller",
+      "name": "Spiked Roller",
+      "imagePath": "spiked_roller.png",
+      "author": "PlaguedOne",
+      "rdcPath": "spiked_roller.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "spongebob_squarepants",
+      "name": "SpongeBob SquarePants",
+      "imagePath": "spongebob_squarepants.png",
+      "author": "JJ0033LL",
+      "rdcPath": "spongebob_squarepants.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "spyro_the_dragon",
+      "name": "Spyro the Dragon",
+      "imagePath": "spyro_the_dragon.png",
+      "author": "Drieky",
+      "rdcPath": "spyro_the_dragon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "squall",
+      "name": "Squall",
+      "imagePath": "squall.png",
+      "author": "Maessan",
+      "rdcPath": "squall.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "squirrel",
+      "name": "Squirrel",
+      "imagePath": "squirrel.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "squirrel.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "squirtle",
+      "name": "Squirtle",
+      "imagePath": "squirtle.png",
+      "author": "Numberplay",
+      "rdcPath": "squirtle.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "stalfos",
+      "name": "Stalfos",
+      "imagePath": "stalfos.png",
+      "author": "Artheau",
+      "rdcPath": "stalfos.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "stan",
+      "name": "Stan",
+      "imagePath": "stan.png",
+      "author": "kan",
+      "rdcPath": "stan.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "steamed_ham",
+      "name": "Steamed Ham",
+      "imagePath": "steamed_ham.png",
+      "author": "AFewGoodTaters",
+      "rdcPath": "steamed_ham.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "stick_man",
+      "name": "Stick Man",
+      "imagePath": "stick_man.png",
+      "author": "skovacs1",
+      "rdcPath": "stick_man.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "super_bomb",
+      "name": "Super Bomb",
+      "imagePath": "super_bomb.png",
+      "author": "Ninjakauz",
+      "rdcPath": "super_bomb.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "super_meat_boy",
+      "name": "Super Meat Boy",
+      "imagePath": "super_meat_boy.png",
+      "author": "Achy",
+      "rdcPath": "super_meat_boy.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "super_bunny",
+      "name": "Super Bunny",
+      "imagePath": "super_bunny.png",
+      "author": "TheOkayGuy",
+      "rdcPath": "super_bunny.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "susie",
+      "name": "Susie",
+      "imagePath": "susie.png",
+      "author": "ZandraVandra",
+      "rdcPath": "susie.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "swiper",
+      "name": "Swiper",
+      "imagePath": "swiper.png",
+      "author": "Purple Peak",
+      "rdcPath": "swiper.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "swirldrop",
+      "name": "SwirlDrop",
+      "imagePath": "swirldrop.png",
+      "author": "happytoaster",
+      "rdcPath": "swirldrop.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tanooki_mario",
+      "name": "Tanooki Mario",
+      "imagePath": "tanooki_mario.png",
+      "author": "Nocturnesthesia",
+      "rdcPath": "tanooki_mario.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tasbot",
+      "name": "TASBot",
+      "imagePath": "tasbot.png",
+      "author": "GenoCL",
+      "rdcPath": "tasbot.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tea_time",
+      "name": "Tea Time",
+      "imagePath": "tea_time.png",
+      "author": "SirCzah",
+      "rdcPath": "tea_time.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "teddiursa",
+      "name": "Teddiursa",
+      "imagePath": "teddiursa.png",
+      "author": "Charmander106",
+      "rdcPath": "teddiursa.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "terra_esper_",
+      "name": "Terra (Esper)",
+      "imagePath": "terra_esper_.png",
+      "author": "All_in_one Mighty",
+      "rdcPath": "terra_esper_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "terry",
+      "name": "Terry",
+      "imagePath": "terry.png",
+      "author": "CD-Mestay",
+      "rdcPath": "terry.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tetra",
+      "name": "Tetra",
+      "imagePath": "tetra.png",
+      "author": "Ferelheart",
+      "rdcPath": "tetra.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tgh",
+      "name": "TGH",
+      "imagePath": "tgh.png",
+      "author": "Drew Wise/pizza_for_free",
+      "rdcPath": "tgh.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "the_professor",
+      "name": "The Professor",
+      "imagePath": "the_professor.png",
+      "author": "PlaguedOne",
+      "rdcPath": "the_professor.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "the_robot",
+      "name": "The Robot",
+      "imagePath": "the_robot.png",
+      "author": "The Corgi King",
+      "rdcPath": "the_robot.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "thief",
+      "name": "Thief",
+      "imagePath": "thief.png",
+      "author": "Devan2002",
+      "rdcPath": "thief.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "thinkdorm",
+      "name": "ThinkDorm",
+      "imagePath": "thinkdorm.png",
+      "author": "PlaguedOne",
+      "rdcPath": "thinkdorm.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "thomcrow",
+      "name": "Thomcrow",
+      "imagePath": "thomcrow.png",
+      "author": "Thom",
+      "rdcPath": "thomcrow.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tile",
+      "name": "Tile",
+      "imagePath": "tile.png",
+      "author": "kan",
+      "rdcPath": "tile.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tingle",
+      "name": "Tingle",
+      "imagePath": "tingle.png",
+      "author": "Xenobond",
+      "rdcPath": "tingle.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tmnt",
+      "name": "TMNT",
+      "imagePath": "tmnt.png",
+      "author": "SirCzah",
+      "rdcPath": "tmnt.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "toad",
+      "name": "Toad",
+      "imagePath": "toad.png",
+      "author": "Zarby89",
+      "rdcPath": "toad.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "toadette",
+      "name": "Toadette",
+      "imagePath": "toadette.png",
+      "author": "Devan2002",
+      "rdcPath": "toadette.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "totemlinks",
+      "name": "TotemLinks",
+      "imagePath": "totemlinks.png",
+      "author": "Yotohan",
+      "rdcPath": "totemlinks.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tp_zelda",
+      "name": "TP Zelda",
+      "imagePath": "tp_zelda.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "tp_zelda.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "trogdor_the_burninator",
+      "name": "Trogdor the Burninator",
+      "imagePath": "trogdor_the_burninator.png",
+      "author": "Minnie Trethewey/kan",
+      "rdcPath": "trogdor_the_burninator.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tueffel",
+      "name": "Tueffel",
+      "imagePath": "tueffel.png",
+      "author": "Tueffelchen",
+      "rdcPath": "tueffel.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "tunic",
+      "name": "Tunic",
+      "imagePath": "tunic.png",
+      "author": "tosh",
+      "rdcPath": "tunic.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "twofaced",
+      "name": "TwoFaced",
+      "imagePath": "twofaced.png",
+      "author": "Devan2002",
+      "rdcPath": "twofaced.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ty_the_tasmanian_tiger",
+      "name": "Ty the Tasmanian Tiger",
+      "imagePath": "ty_the_tasmanian_tiger.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "ty_the_tasmanian_tiger.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ufo_kirby",
+      "name": "UFO Kirby",
+      "imagePath": "ufo_kirby.png",
+      "author": "PlaguedOne",
+      "rdcPath": "ufo_kirby.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "ultros",
+      "name": "Ultros",
+      "imagePath": "ultros.png",
+      "author": "PlaguedOne",
+      "rdcPath": "ultros.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "umbreon",
+      "name": "Umbreon",
+      "imagePath": "umbreon.png",
+      "author": "Drieky",
+      "rdcPath": "umbreon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "valeera",
+      "name": "Valeera",
+      "imagePath": "valeera.png",
+      "author": "Glan",
+      "rdcPath": "valeera.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "vanillalink",
+      "name": "VanillaLink",
+      "imagePath": "vanillalink.png",
+      "author": "Gwenegade",
+      "rdcPath": "vanillalink.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "vaporeon",
+      "name": "Vaporeon",
+      "imagePath": "vaporeon.png",
+      "author": "Aquana",
+      "rdcPath": "vaporeon.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "vegeta",
+      "name": "Vegeta",
+      "imagePath": "vegeta.png",
+      "author": "Merciter",
+      "rdcPath": "vegeta.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "vera",
+      "name": "Vera",
+      "imagePath": "vera.png",
+      "author": "aitchFactor",
+      "rdcPath": "vera.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "vitreous",
+      "name": "Vitreous",
+      "imagePath": "vitreous.png",
+      "author": "Glan",
+      "rdcPath": "vitreous.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "vivi",
+      "name": "Vivi",
+      "imagePath": "vivi.png",
+      "author": "RyuTech",
+      "rdcPath": "vivi.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "vivian",
+      "name": "Vivian",
+      "imagePath": "vivian.png",
+      "author": "SirCzah",
+      "rdcPath": "vivian.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "wario",
+      "name": "Wario",
+      "imagePath": "wario.png",
+      "author": "Deagans",
+      "rdcPath": "wario.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "white_mage",
+      "name": "White Mage",
+      "imagePath": "white_mage.png",
+      "author": "TheRedMage",
+      "rdcPath": "white_mage.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "will",
+      "name": "Will",
+      "imagePath": "will.png",
+      "author": "Xenobond",
+      "rdcPath": "will.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "wolf_link",
+      "name": "Wolf Link",
+      "imagePath": "wolf_link.png",
+      "author": "Fish/Beef-Chan",
+      "rdcPath": "wolf_link.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "wolf_o_donnell",
+      "name": "Wolf O'Donnell",
+      "imagePath": "wolf_o_donnell.png",
+      "author": "Lougaroc",
+      "rdcPath": "wolf_o_donnell.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "wolf_link_tp_",
+      "name": "Wolf Link (TP)",
+      "imagePath": "wolf_link_tp_.png",
+      "author": "Gfish59",
+      "rdcPath": "wolf_link_tp_.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "wuzaiiii",
+      "name": "WuZaiiii",
+      "imagePath": "wuzaiiii.png",
+      "author": "Nekoni_Hoozuki",
+      "rdcPath": "wuzaiiii.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "xman101",
+      "name": "Xman101",
+      "imagePath": "xman101.png",
+      "author": "Xman101",
+      "rdcPath": "xman101.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "yoshi",
+      "name": "Yoshi",
+      "imagePath": "yoshi.png",
+      "author": "Yotohan",
+      "rdcPath": "yoshi.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "yunica_tovah",
+      "name": "Yunica Tovah",
+      "imagePath": "yunica_tovah.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "yunica_tovah.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zagreus",
+      "name": "Zagreus",
+      "imagePath": "zagreus.png",
+      "author": "Gwenegade",
+      "rdcPath": "zagreus.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zandra",
+      "name": "Zandra",
+      "imagePath": "zandra.png",
+      "author": "ZandraVandra",
+      "rdcPath": "zandra.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zaruvyen",
+      "name": "Zaruvyen",
+      "imagePath": "zaruvyen.png",
+      "author": "Drieky",
+      "rdcPath": "zaruvyen.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zebra_unicorn",
+      "name": "Zebra Unicorn",
+      "imagePath": "zebra_unicorn.png",
+      "author": "Brass Man",
+      "rdcPath": "zebra_unicorn.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zeckemyro",
+      "name": "Zeckemyro",
+      "imagePath": "zeckemyro.png",
+      "author": "aitchFactor",
+      "rdcPath": "zeckemyro.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zekrom",
+      "name": "Zekrom",
+      "imagePath": "zekrom.png",
+      "author": "Lougaroc",
+      "rdcPath": "zekrom.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zelda",
+      "name": "Zelda",
+      "imagePath": "zelda.png",
+      "author": "Myriachan",
+      "rdcPath": "zelda.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zero_suit_samus",
+      "name": "Zero Suit Samus",
+      "imagePath": "zero_suit_samus.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "zero_suit_samus.rdc",
+      "kind": "rdc/link"
+    },
+    {
+      "value": "zora",
+      "name": "Zora",
+      "imagePath": "zora.png",
+      "author": "Zarby, InTheBeef",
+      "rdcPath": "zora.rdc",
+      "kind": "rdc/link"
+    }
+  ]
+}
