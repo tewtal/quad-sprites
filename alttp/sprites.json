@@ -327,6 +327,14 @@
       "author": "Dr. Deadrewski",
       "rdcPath": "birb_of_paradise.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "birb",
+      "name": "Birb",
+      "imagePath": "birb.png",
+      "author": "Andrew Copple",
+      "rdcPath": "birb.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
