@@ -351,6 +351,14 @@
       "author": "BlackTycoon",
       "rdcPath": "birdo.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "black_mage",
+      "name": "Black Mage",
+      "imagePath": "black_mage.png",
+      "author": "TheRedMage",
+      "rdcPath": "black_mage.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
