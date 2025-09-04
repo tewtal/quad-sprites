@@ -375,6 +375,14 @@
       "author": "Herowho",
       "rdcPath": "blazer.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "blossom",
+      "name": "Blossom",
+      "imagePath": "blossom.png",
+      "author": "Artheau",
+      "rdcPath": "blossom.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
