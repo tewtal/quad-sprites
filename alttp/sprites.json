@@ -127,6 +127,14 @@
       "author": "MM102",
       "rdcPath": "arcane.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "archen",
+      "name": "Archen",
+      "imagePath": "archen.png",
+      "author": "Vonyee",
+      "rdcPath": "archen.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
