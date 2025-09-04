@@ -199,6 +199,14 @@
       "author": "Malmo",
       "rdcPath": "astronaut.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "asuna",
+      "name": "Asuna",
+      "imagePath": "asuna.png",
+      "author": "Natsuru Kiyohoshi",
+      "rdcPath": "asuna.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
