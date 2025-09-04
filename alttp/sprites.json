@@ -335,6 +335,14 @@
       "author": "Andrew Copple",
       "rdcPath": "birb.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "birdfruit",
+      "name": "Birdfruit",
+      "imagePath": "birdfruit.png",
+      "author": "karafruit",
+      "rdcPath": "birdfruit.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
