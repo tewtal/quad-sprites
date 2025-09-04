@@ -311,6 +311,14 @@
       "author": "Valechec",
       "rdcPath": "bewp.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "big_key",
+      "name": "Big Key",
+      "imagePath": "big_key.png",
+      "author": "kan",
+      "rdcPath": "big_key.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
