@@ -319,6 +319,14 @@
       "author": "kan",
       "rdcPath": "big_key.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "birb_of_paradise",
+      "name": "Birb of Paradise",
+      "imagePath": "birb_of_paradise.png",
+      "author": "Dr. Deadrewski",
+      "rdcPath": "birb_of_paradise.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
