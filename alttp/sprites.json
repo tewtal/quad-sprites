@@ -263,6 +263,14 @@
       "author": "codemann8",
       "rdcPath": "bananas_in_pyjamas.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "bandit",
+      "name": "Bandit",
+      "imagePath": "bandit.png",
+      "author": "Fenrika",
+      "rdcPath": "bandit.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
