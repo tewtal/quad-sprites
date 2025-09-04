@@ -303,6 +303,14 @@
       "author": "Kishi/Krelbel",
       "rdcPath": "bel.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "bewp",
+      "name": "Bewp",
+      "imagePath": "bewp.png",
+      "author": "Valechec",
+      "rdcPath": "bewp.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
