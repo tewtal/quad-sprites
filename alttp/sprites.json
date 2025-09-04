@@ -247,6 +247,14 @@
       "author": "Jam",
       "rdcPath": "badeline.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "bailey",
+      "name": "Bailey",
+      "imagePath": "bailey.png",
+      "author": "The Bestest Milly",
+      "rdcPath": "bailey.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
