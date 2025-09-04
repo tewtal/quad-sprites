@@ -207,6 +207,14 @@
       "author": "Natsuru Kiyohoshi",
       "rdcPath": "asuna.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "b_o_b_",
+      "name": "B.O.B.",
+      "imagePath": "b_o_b_.png",
+      "author": "SpoonyBard",
+      "rdcPath": "b_o_b_.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
