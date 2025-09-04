@@ -95,6 +95,14 @@
       "author": "Fish_waffle64",
       "rdcPath": "alex.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "alice",
+      "name": "Alice",
+      "imagePath": "alice.png",
+      "author": "Artheau",
+      "rdcPath": "alice.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
