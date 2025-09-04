@@ -119,6 +119,14 @@
       "author": "AnnaLavellan",
       "rdcPath": "annalavellan.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "arcane",
+      "name": "Arcane",
+      "imagePath": "arcane.png",
+      "author": "MM102",
+      "rdcPath": "arcane.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
