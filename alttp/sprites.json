@@ -271,6 +271,14 @@
       "author": "Fenrika",
       "rdcPath": "bandit.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "batman",
+      "name": "Batman",
+      "imagePath": "batman.png",
+      "author": "Ninjakauz",
+      "rdcPath": "batman.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
