@@ -151,6 +151,14 @@
       "author": "Drieky",
       "rdcPath": "arcturuschusky.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "aria",
+      "name": "Aria",
+      "imagePath": "aria.png",
+      "author": "Maya Neko Comics",
+      "rdcPath": "aria.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
