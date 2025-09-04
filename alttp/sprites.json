@@ -183,6 +183,14 @@
       "author": "kan",
       "rdcPath": "arrghus.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "astor",
+      "name": "Astor",
+      "imagePath": "astor.png",
+      "author": "Herowho",
+      "rdcPath": "astor.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
