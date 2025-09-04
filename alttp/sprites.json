@@ -359,6 +359,14 @@
       "author": "TheRedMage",
       "rdcPath": "black_mage.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "blacksmith_link",
+      "name": "Blacksmith Link",
+      "imagePath": "blacksmith_link.png",
+      "author": "Glan",
+      "rdcPath": "blacksmith_link.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
