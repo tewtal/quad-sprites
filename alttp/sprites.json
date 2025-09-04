@@ -111,6 +111,14 @@
       "author": "ABOhiccups",
       "rdcPath": "angry_video_game_nerd.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "annalavellan",
+      "name": "AnnaLavellan",
+      "imagePath": "annalavellan.png",
+      "author": "AnnaLavellan",
+      "rdcPath": "annalavellan.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
