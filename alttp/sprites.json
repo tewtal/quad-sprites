@@ -191,6 +191,14 @@
       "author": "Herowho",
       "rdcPath": "astor.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "astronaut",
+      "name": "Astronaut",
+      "imagePath": "astronaut.png",
+      "author": "Malmo",
+      "rdcPath": "astronaut.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
