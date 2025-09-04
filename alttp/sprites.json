@@ -63,6 +63,14 @@
       "author": "Fish_waffle64",
       "rdcPath": "abigail.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "adol",
+      "name": "Adol",
+      "imagePath": "adol.png",
+      "author": "Yuushia",
+      "rdcPath": "adol.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
