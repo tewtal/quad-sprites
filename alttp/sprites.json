@@ -167,6 +167,14 @@
       "author": "Dorana",
       "rdcPath": "ark_no_cape_.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "ark",
+      "name": "Ark",
+      "imagePath": "ark.png",
+      "author": "wzl",
+      "rdcPath": "ark.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
