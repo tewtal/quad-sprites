@@ -343,6 +343,14 @@
       "author": "karafruit",
       "rdcPath": "birdfruit.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "birdo",
+      "name": "Birdo",
+      "imagePath": "birdo.png",
+      "author": "BlackTycoon",
+      "rdcPath": "birdo.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
