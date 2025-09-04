@@ -55,6 +55,14 @@
       "author": "Zarby89",
       "rdcPath": "soda_can.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "abigail",
+      "name": "Abigail",
+      "imagePath": "abigail.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "abigail.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
