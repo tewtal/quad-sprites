@@ -231,6 +231,14 @@
       "author": "MochaJones10",
       "rdcPath": "baby_fro.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "baby_metroid",
+      "name": "Baby Metroid",
+      "imagePath": "baby_metroid.png",
+      "author": "Jam",
+      "rdcPath": "baby_metroid.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
