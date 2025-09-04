@@ -223,6 +223,14 @@
       "author": "malmo",
       "rdcPath": "baba.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "baby_fro",
+      "name": "Baby Fro",
+      "imagePath": "baby_fro.png",
+      "author": "MochaJones10",
+      "rdcPath": "baby_fro.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
