@@ -295,6 +295,14 @@
       "author": "TarThoron",
       "rdcPath": "bee.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "bel",
+      "name": "Bel",
+      "imagePath": "bel.png",
+      "author": "Kishi/Krelbel",
+      "rdcPath": "bel.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
