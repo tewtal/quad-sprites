@@ -47,6 +47,14 @@
       "author": "Achy",
       "rdcPath": "the_pug.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "soda_can",
+      "name": "Soda Can",
+      "imagePath": "soda_can.png",
+      "author": "Zarby89",
+      "rdcPath": "soda_can.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
