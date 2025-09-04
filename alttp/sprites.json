@@ -175,6 +175,14 @@
       "author": "wzl",
       "rdcPath": "ark.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "arrghus",
+      "name": "Arrghus",
+      "imagePath": "arrghus.png",
+      "author": "kan",
+      "rdcPath": "arrghus.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
