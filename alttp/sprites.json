@@ -239,6 +239,14 @@
       "author": "Jam",
       "rdcPath": "baby_metroid.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "badeline",
+      "name": "Badeline",
+      "imagePath": "badeline.png",
+      "author": "Jam",
+      "rdcPath": "badeline.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
