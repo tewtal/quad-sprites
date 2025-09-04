@@ -103,6 +103,14 @@
       "author": "Artheau",
       "rdcPath": "alice.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "angry_video_game_nerd",
+      "name": "Angry Video Game Nerd",
+      "imagePath": "angry_video_game_nerd.png",
+      "author": "ABOhiccups",
+      "rdcPath": "angry_video_game_nerd.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
