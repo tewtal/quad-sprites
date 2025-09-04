@@ -79,6 +79,14 @@
       "author": "Purple Peak",
       "rdcPath": "adventure_2600.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "aggretsuko",
+      "name": "Aggretsuko",
+      "imagePath": "aggretsuko.png",
+      "author": "skovacs1",
+      "rdcPath": "aggretsuko.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
