@@ -135,6 +135,14 @@
       "author": "Vonyee",
       "rdcPath": "archen.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "arcticartemisfox",
+      "name": "ArcticArtemisFox",
+      "imagePath": "arcticartemisfox.png",
+      "author": "Chew Terr",
+      "rdcPath": "arcticartemisfox.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
