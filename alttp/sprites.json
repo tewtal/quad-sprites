@@ -287,6 +287,14 @@
       "author": "Achy",
       "rdcPath": "beau.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "bee",
+      "name": "Bee",
+      "imagePath": "bee.png",
+      "author": "TarThoron",
+      "rdcPath": "bee.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
