@@ -87,6 +87,14 @@
       "author": "skovacs1",
       "rdcPath": "aggretsuko.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "alex",
+      "name": "Alex",
+      "imagePath": "alex.png",
+      "author": "Fish_waffle64",
+      "rdcPath": "alex.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
