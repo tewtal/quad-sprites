@@ -367,6 +367,14 @@
       "author": "Glan",
       "rdcPath": "blacksmith_link.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "blazer",
+      "name": "Blazer",
+      "imagePath": "blazer.png",
+      "author": "Herowho",
+      "rdcPath": "blazer.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
