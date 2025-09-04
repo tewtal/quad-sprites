@@ -215,6 +215,14 @@
       "author": "SpoonyBard",
       "rdcPath": "b_o_b_.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "baba",
+      "name": "Baba",
+      "imagePath": "baba.png",
+      "author": "malmo",
+      "rdcPath": "baba.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
