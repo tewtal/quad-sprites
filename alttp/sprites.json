@@ -255,6 +255,14 @@
       "author": "The Bestest Milly",
       "rdcPath": "bailey.rdc",
       "kind": "rdc/link"
+    },
+    {
+      "value": "bananas_in_pyjamas",
+      "name": "Bananas In Pyjamas",
+      "imagePath": "bananas_in_pyjamas.png",
+      "author": "codemann8",
+      "rdcPath": "bananas_in_pyjamas.rdc",
+      "kind": "rdc/link"
     }
   ]
 }
