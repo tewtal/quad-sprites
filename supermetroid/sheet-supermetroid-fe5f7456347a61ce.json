@@ -1,0 +1,1464 @@
+{
+  "version": 1,
+  "game": "supermetroid",
+  "hash": "fe5f7456347a61ce",
+  "generatedAt": "2025-09-22T22:01:34.378Z",
+  "sheet": {
+    "image": "sheet-supermetroid-fe5f7456347a61ce.png",
+    "width": 2048,
+    "height": 96
+  },
+  "cell": {
+    "w": 32,
+    "h": 48
+  },
+  "sprites": [
+    {
+      "value": "140",
+      "name": "140",
+      "author": "Kyzentum",
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "140.png"
+    },
+    {
+      "value": "8-bit_mario",
+      "name": "8-Bit Mario",
+      "author": "TarThoron",
+      "x": 32,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "8-bit_mario.png"
+    },
+    {
+      "value": "agender_samus",
+      "name": "Agender Samus",
+      "author": "Abyss",
+      "x": 64,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "agender_samus.png"
+    },
+    {
+      "value": "alcoon",
+      "name": "Alcoon",
+      "author": "Wuffie",
+      "x": 96,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "alcoon.png"
+    },
+    {
+      "value": "alice_margatroid",
+      "name": "Alice Margatroid",
+      "author": "Plan",
+      "x": 128,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "alice_margatroid.png"
+    },
+    {
+      "value": "alucard",
+      "name": "Alucard",
+      "author": "Nintoaster",
+      "x": 160,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "alucard.png"
+    },
+    {
+      "value": "arcana",
+      "name": "Arcana",
+      "author": "Arcane",
+      "x": 192,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "arcana.png"
+    },
+    {
+      "value": "aroace_samus",
+      "name": "AroAce Samus",
+      "author": "mm2nescartridge",
+      "x": 224,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "aroace_samus.png"
+    },
+    {
+      "value": "aroace_samus_ii",
+      "name": "Aroace Samus II",
+      "author": "mm2nescartridge",
+      "x": 256,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "aroace_samus_ii.png"
+    },
+    {
+      "value": "b_o_b_",
+      "name": "B.O.B.",
+      "author": "SpoonyBard",
+      "x": 288,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "b_o_b_.png"
+    },
+    {
+      "value": "brad_fang",
+      "name": "Brad Fang",
+      "author": "Akai Azul",
+      "x": 320,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "brad_fang.png"
+    },
+    {
+      "value": "bruno",
+      "name": "Bruno",
+      "author": "SunWu, Looking4Giants",
+      "x": 352,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "bruno.png"
+    },
+    {
+      "value": "buffed_eggplant",
+      "name": "Buffed Eggplant",
+      "author": "Fredz00z",
+      "x": 384,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "buffed_eggplant.png"
+    },
+    {
+      "value": "buffed_kirby",
+      "name": "Buffed Kirby",
+      "author": "Fredz00z",
+      "x": 416,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "buffed_kirby.png"
+    },
+    {
+      "value": "buffed_pug",
+      "name": "Buffed Pug",
+      "author": "Fredz00z",
+      "x": 448,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "buffed_pug.png"
+    },
+    {
+      "value": "captain_novolin",
+      "name": "Captain Novolin",
+      "author": "PaddyCo",
+      "x": 480,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "captain_novolin.png"
+    },
+    {
+      "value": "ceroba_ketsukane",
+      "name": "Ceroba Ketsukane",
+      "author": "Dewutt610",
+      "x": 512,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "ceroba_ketsukane.png"
+    },
+    {
+      "value": "chairdeep",
+      "name": "Chairdeep",
+      "author": "_aitchFactor",
+      "x": 544,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "chairdeep.png"
+    },
+    {
+      "value": "charizard",
+      "name": "Charizard",
+      "author": "Chamander106",
+      "x": 576,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "charizard.png"
+    },
+    {
+      "value": "charlotte_aulin",
+      "name": "Charlotte Aulin",
+      "author": "Jonacrab",
+      "x": 608,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "charlotte_aulin.png"
+    },
+    {
+      "value": "crewmate",
+      "name": "Crewmate",
+      "author": "_aitchFactor",
+      "x": 640,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "crewmate.png"
+    },
+    {
+      "value": "cuphead",
+      "name": "Cuphead",
+      "author": "Fredz00z",
+      "x": 672,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "cuphead.png"
+    },
+    {
+      "value": "dark_samus",
+      "name": "Dark Samus",
+      "author": "TarThoron",
+      "x": 704,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "dark_samus.png"
+    },
+    {
+      "value": "diddy_kong",
+      "name": "Diddy Kong",
+      "author": "Di10",
+      "x": 736,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "diddy_kong.png"
+    },
+    {
+      "value": "dread",
+      "name": "Dread",
+      "author": "Wandering Spider",
+      "x": 768,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "dread.png"
+    },
+    {
+      "value": "dream_team_mario",
+      "name": "Dream Team Mario",
+      "author": "Dawn",
+      "x": 800,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "dream_team_mario.png"
+    },
+    {
+      "value": "earthworm_jim",
+      "name": "Earthworm Jim",
+      "author": "Fredz00z",
+      "x": 832,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "earthworm_jim.png"
+    },
+    {
+      "value": "enby_pride",
+      "name": "Enby Pride",
+      "author": "Glove",
+      "x": 864,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "enby_pride.png"
+    },
+    {
+      "value": "federation_trooper",
+      "name": "Federation Trooper",
+      "author": "Physix",
+      "x": 896,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "federation_trooper.png"
+    },
+    {
+      "value": "fight",
+      "name": "Fight",
+      "author": "Spoony",
+      "x": 928,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "fight.png"
+    },
+    {
+      "value": "fusion_green_",
+      "name": "Fusion (Green)",
+      "author": "Galamoz",
+      "x": 960,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "fusion_green_.png"
+    },
+    {
+      "value": "goku",
+      "name": "Goku",
+      "author": "Fredz00z",
+      "x": 992,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "goku.png"
+    },
+    {
+      "value": "inkling_girl_v2",
+      "name": "Inkling Girl v2",
+      "author": "Ouily644",
+      "x": 1024,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "inkling_girl_v2.png"
+    },
+    {
+      "value": "janky",
+      "name": "Janky",
+      "author": "extranogabu",
+      "x": 1056,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "janky.png"
+    },
+    {
+      "value": "junko",
+      "name": "Junko",
+      "author": "P. Yoshi",
+      "x": 1088,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "junko.png"
+    },
+    {
+      "value": "justin_bailey",
+      "name": "Justin Bailey",
+      "author": "Auximines",
+      "x": 1120,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "justin_bailey.png"
+    },
+    {
+      "value": "kiara",
+      "name": "Kiara",
+      "author": "Shinobufujiko",
+      "x": 1152,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "kiara.png"
+    },
+    {
+      "value": "king_graham",
+      "name": "King Graham",
+      "author": "Fragger",
+      "x": 1184,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "king_graham.png"
+    },
+    {
+      "value": "kirby",
+      "name": "Kirby",
+      "author": "Wandering Spider",
+      "x": 1216,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "kirby.png"
+    },
+    {
+      "value": "knuckles",
+      "name": "Knuckles",
+      "author": "Fredz00z",
+      "x": 1248,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "knuckles.png"
+    },
+    {
+      "value": "leading_edge_samus",
+      "name": "Leading Edge Samus",
+      "author": "Kyzentun",
+      "x": 1280,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "leading_edge_samus.png"
+    },
+    {
+      "value": "left_leg_samus",
+      "name": "Left Leg Samus",
+      "author": "kyzentun",
+      "x": 1312,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "left_leg_samus.png"
+    },
+    {
+      "value": "link_2_the_past",
+      "name": "Link 2 The Past",
+      "author": "Little Leaden Hearts",
+      "x": 1344,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "link_2_the_past.png"
+    },
+    {
+      "value": "link_oot_",
+      "name": "Link (OoT)",
+      "author": "RonnSama",
+      "x": 1376,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "link_oot_.png"
+    },
+    {
+      "value": "luigi",
+      "name": "Luigi",
+      "author": "RonnSama",
+      "x": 1408,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "luigi.png"
+    },
+    {
+      "value": "madeline",
+      "name": "Madeline",
+      "author": "Dawn",
+      "x": 1440,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "madeline.png"
+    },
+    {
+      "value": "maria_pollo",
+      "name": "Maria Pollo",
+      "author": "MoeChicken",
+      "x": 1472,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "maria_pollo.png"
+    },
+    {
+      "value": "maria_renard",
+      "name": "Maria Renard",
+      "author": "Little Leaden Hearts",
+      "x": 1504,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "maria_renard.png"
+    },
+    {
+      "value": "mario_dreamteam",
+      "name": "Mario Dreamteam",
+      "author": "Dawn",
+      "x": 1536,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "mario_dreamteam.png"
+    },
+    {
+      "value": "mario_smw_",
+      "name": "Mario (SMW)",
+      "author": "SthianFel64",
+      "x": 1568,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "mario_smw_.png"
+    },
+    {
+      "value": "master_hand",
+      "name": "Master Hand",
+      "author": "Fredz00z",
+      "x": 1600,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "master_hand.png"
+    },
+    {
+      "value": "maxim_kischine",
+      "name": "Maxim Kischine",
+      "author": "Little Leaden Hearts",
+      "x": 1632,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "maxim_kischine.png"
+    },
+    {
+      "value": "mega_man_x",
+      "name": "Mega Man X",
+      "author": "Artheau",
+      "x": 1664,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "mega_man_x.png"
+    },
+    {
+      "value": "megaman_x_bearded_",
+      "name": "MegaMan X (Bearded)",
+      "author": "Involuntarymillenial",
+      "x": 1696,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "megaman_x_bearded_.png"
+    },
+    {
+      "value": "metroid",
+      "name": "Metroid",
+      "author": "Fingers McGee",
+      "x": 1728,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "metroid.png"
+    },
+    {
+      "value": "mini_samus",
+      "name": "Mini Samus",
+      "author": "Kyzentum",
+      "x": 1760,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "mini_samus.png"
+    },
+    {
+      "value": "missingno",
+      "name": "missingno",
+      "author": "Little Leaden Hearts",
+      "x": 1792,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "missingno.png"
+    },
+    {
+      "value": "moonclif",
+      "name": "Moonclif",
+      "author": "Lougaroc",
+      "x": 1824,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "moonclif.png"
+    },
+    {
+      "value": "opposition",
+      "name": "Opposition",
+      "author": "mccad00",
+      "x": 1856,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "opposition.png"
+    },
+    {
+      "value": "outline_samus",
+      "name": "Outline Samus",
+      "author": "Fredz00z",
+      "x": 1888,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "outline_samus.png"
+    },
+    {
+      "value": "ped_suit_samus",
+      "name": "PED Suit Samus",
+      "author": "Mattroid",
+      "x": 1920,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "ped_suit_samus.png"
+    },
+    {
+      "value": "plissken",
+      "name": "Plissken",
+      "author": "Akai Azul",
+      "x": 1952,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "plissken.png"
+    },
+    {
+      "value": "protogen_laso",
+      "name": "Protogen Laso",
+      "author": "Purple Peak",
+      "x": 1984,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "protogen_laso.png"
+    },
+    {
+      "value": "pyronett",
+      "name": "Pyronett",
+      "author": "DaWildWildWes",
+      "x": 2016,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "pyronett.png"
+    },
+    {
+      "value": "ronald_mcdonald",
+      "name": "Ronald McDonald",
+      "author": "Fredz00z",
+      "x": 0,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "ronald_mcdonald.png"
+    },
+    {
+      "value": "samus_maid",
+      "name": "Samus Maid",
+      "author": "Ouily644",
+      "x": 32,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "samus_maid.png"
+    },
+    {
+      "value": "samus_returns",
+      "name": "Samus Returns",
+      "author": "Mattroid",
+      "x": 64,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "samus_returns.png"
+    },
+    {
+      "value": "sans",
+      "name": "Sans",
+      "author": "Ouily644",
+      "x": 96,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "sans.png"
+    },
+    {
+      "value": "sfc_contoller",
+      "name": "SFC Contoller",
+      "author": "Fredz00z",
+      "x": 128,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "sfc_contoller.png"
+    },
+    {
+      "value": "shaktool",
+      "name": "Shaktool",
+      "author": "Pneumatic",
+      "x": 160,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "shaktool.png"
+    },
+    {
+      "value": "shaktool_jr_",
+      "name": "Shaktool Jr.",
+      "author": "Pneumatic",
+      "x": 192,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "shaktool_jr_.png"
+    },
+    {
+      "value": "shantae",
+      "name": "Shantae",
+      "author": "Fredz00z",
+      "x": 224,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "shantae.png"
+    },
+    {
+      "value": "sonic",
+      "name": "Sonic",
+      "author": "Fredz00z",
+      "x": 256,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "sonic.png"
+    },
+    {
+      "value": "sprite",
+      "name": "Sprite",
+      "author": "TarThoron",
+      "x": 288,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "sprite.png"
+    },
+    {
+      "value": "super_controid_pg_",
+      "name": "Super Controid (PG)",
+      "author": "Nintoaster",
+      "x": 320,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "super_controid_pg_.png"
+    },
+    {
+      "value": "tails",
+      "name": "Tails",
+      "author": "Fredz00z",
+      "x": 352,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "tails.png"
+    },
+    {
+      "value": "tallink",
+      "name": "Tallink",
+      "author": "Little Leaden Hearts",
+      "x": 384,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "tallink.png"
+    },
+    {
+      "value": "tetris",
+      "name": "Tetris",
+      "author": "Kyzentum",
+      "x": 416,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "tetris.png"
+    },
+    {
+      "value": "thomcrow_corbin",
+      "name": "Thomcrow Corbin",
+      "author": "Thom",
+      "x": 448,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "thomcrow_corbin.png"
+    },
+    {
+      "value": "trans_pride",
+      "name": "Trans Pride",
+      "author": "TarThoron",
+      "x": 480,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "trans_pride.png"
+    },
+    {
+      "value": "wario",
+      "name": "Wario",
+      "author": "Fredz00z",
+      "x": 512,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "wario.png"
+    },
+    {
+      "value": "win95_cursor",
+      "name": "Win95 Cursor",
+      "author": "PlaguedOne",
+      "x": 544,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "win95_cursor.png"
+    },
+    {
+      "value": "yarn_kirby",
+      "name": "Yarn Kirby",
+      "author": "Dawn",
+      "x": 576,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "yarn_kirby.png"
+    },
+    {
+      "value": "yoshi_baby_mario",
+      "name": "Yoshi & Baby Mario",
+      "author": "Dawn",
+      "x": 608,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "yoshi_baby_mario.png"
+    },
+    {
+      "value": "zero_mission",
+      "name": "Zero Mission",
+      "author": "Starry Melody",
+      "x": 640,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "originalImagePath": "zero_mission.png"
+    }
+  ],
+  "byValue": {
+    "140": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 0
+    },
+    "8-bit_mario": {
+      "x": 32,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 1
+    },
+    "agender_samus": {
+      "x": 64,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 2
+    },
+    "alcoon": {
+      "x": 96,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 3
+    },
+    "alice_margatroid": {
+      "x": 128,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 4
+    },
+    "alucard": {
+      "x": 160,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 5
+    },
+    "arcana": {
+      "x": 192,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 6
+    },
+    "aroace_samus": {
+      "x": 224,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 7
+    },
+    "aroace_samus_ii": {
+      "x": 256,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 8
+    },
+    "b_o_b_": {
+      "x": 288,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 9
+    },
+    "brad_fang": {
+      "x": 320,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 10
+    },
+    "bruno": {
+      "x": 352,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 11
+    },
+    "buffed_eggplant": {
+      "x": 384,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 12
+    },
+    "buffed_kirby": {
+      "x": 416,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 13
+    },
+    "buffed_pug": {
+      "x": 448,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 14
+    },
+    "captain_novolin": {
+      "x": 480,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 15
+    },
+    "ceroba_ketsukane": {
+      "x": 512,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 16
+    },
+    "chairdeep": {
+      "x": 544,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 17
+    },
+    "charizard": {
+      "x": 576,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 18
+    },
+    "charlotte_aulin": {
+      "x": 608,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 19
+    },
+    "crewmate": {
+      "x": 640,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 20
+    },
+    "cuphead": {
+      "x": 672,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 21
+    },
+    "dark_samus": {
+      "x": 704,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 22
+    },
+    "diddy_kong": {
+      "x": 736,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 23
+    },
+    "dread": {
+      "x": 768,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 24
+    },
+    "dream_team_mario": {
+      "x": 800,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 25
+    },
+    "earthworm_jim": {
+      "x": 832,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 26
+    },
+    "enby_pride": {
+      "x": 864,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 27
+    },
+    "federation_trooper": {
+      "x": 896,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 28
+    },
+    "fight": {
+      "x": 928,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 29
+    },
+    "fusion_green_": {
+      "x": 960,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 30
+    },
+    "goku": {
+      "x": 992,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 31
+    },
+    "inkling_girl_v2": {
+      "x": 1024,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 32
+    },
+    "janky": {
+      "x": 1056,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 33
+    },
+    "junko": {
+      "x": 1088,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 34
+    },
+    "justin_bailey": {
+      "x": 1120,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 35
+    },
+    "kiara": {
+      "x": 1152,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 36
+    },
+    "king_graham": {
+      "x": 1184,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 37
+    },
+    "kirby": {
+      "x": 1216,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 38
+    },
+    "knuckles": {
+      "x": 1248,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 39
+    },
+    "leading_edge_samus": {
+      "x": 1280,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 40
+    },
+    "left_leg_samus": {
+      "x": 1312,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 41
+    },
+    "link_2_the_past": {
+      "x": 1344,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 42
+    },
+    "link_oot_": {
+      "x": 1376,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 43
+    },
+    "luigi": {
+      "x": 1408,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 44
+    },
+    "madeline": {
+      "x": 1440,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 45
+    },
+    "maria_pollo": {
+      "x": 1472,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 46
+    },
+    "maria_renard": {
+      "x": 1504,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 47
+    },
+    "mario_dreamteam": {
+      "x": 1536,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 48
+    },
+    "mario_smw_": {
+      "x": 1568,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 49
+    },
+    "master_hand": {
+      "x": 1600,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 50
+    },
+    "maxim_kischine": {
+      "x": 1632,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 51
+    },
+    "mega_man_x": {
+      "x": 1664,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 52
+    },
+    "megaman_x_bearded_": {
+      "x": 1696,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 53
+    },
+    "metroid": {
+      "x": 1728,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 54
+    },
+    "mini_samus": {
+      "x": 1760,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 55
+    },
+    "missingno": {
+      "x": 1792,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 56
+    },
+    "moonclif": {
+      "x": 1824,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 57
+    },
+    "opposition": {
+      "x": 1856,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 58
+    },
+    "outline_samus": {
+      "x": 1888,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 59
+    },
+    "ped_suit_samus": {
+      "x": 1920,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 60
+    },
+    "plissken": {
+      "x": 1952,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 61
+    },
+    "protogen_laso": {
+      "x": 1984,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 62
+    },
+    "pyronett": {
+      "x": 2016,
+      "y": 0,
+      "w": 32,
+      "h": 48,
+      "i": 63
+    },
+    "ronald_mcdonald": {
+      "x": 0,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 64
+    },
+    "samus_maid": {
+      "x": 32,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 65
+    },
+    "samus_returns": {
+      "x": 64,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 66
+    },
+    "sans": {
+      "x": 96,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 67
+    },
+    "sfc_contoller": {
+      "x": 128,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 68
+    },
+    "shaktool": {
+      "x": 160,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 69
+    },
+    "shaktool_jr_": {
+      "x": 192,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 70
+    },
+    "shantae": {
+      "x": 224,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 71
+    },
+    "sonic": {
+      "x": 256,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 72
+    },
+    "sprite": {
+      "x": 288,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 73
+    },
+    "super_controid_pg_": {
+      "x": 320,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 74
+    },
+    "tails": {
+      "x": 352,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 75
+    },
+    "tallink": {
+      "x": 384,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 76
+    },
+    "tetris": {
+      "x": 416,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 77
+    },
+    "thomcrow_corbin": {
+      "x": 448,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 78
+    },
+    "trans_pride": {
+      "x": 480,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 79
+    },
+    "wario": {
+      "x": 512,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 80
+    },
+    "win95_cursor": {
+      "x": 544,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 81
+    },
+    "yarn_kirby": {
+      "x": 576,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 82
+    },
+    "yoshi_baby_mario": {
+      "x": 608,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 83
+    },
+    "zero_mission": {
+      "x": 640,
+      "y": 48,
+      "w": 32,
+      "h": 48,
+      "i": 84
+    }
+  }
+}
