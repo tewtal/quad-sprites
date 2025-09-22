@@ -1,0 +1,684 @@
+{
+  "sprites": [
+    {
+      "value": "140",
+      "name": "140",
+      "imagePath": "140.png",
+      "author": "Kyzentum",
+      "rdcPath": "140.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "8-bit_mario",
+      "name": "8-Bit Mario",
+      "imagePath": "8-bit_mario.png",
+      "author": "TarThoron",
+      "rdcPath": "8-bit_mario.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "agender_samus",
+      "name": "Agender Samus",
+      "imagePath": "agender_samus.png",
+      "author": "Abyss",
+      "rdcPath": "agender_samus.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "alcoon",
+      "name": "Alcoon",
+      "imagePath": "alcoon.png",
+      "author": "Wuffie",
+      "rdcPath": "alcoon.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "alice_margatroid",
+      "name": "Alice Margatroid",
+      "imagePath": "alice_margatroid.png",
+      "author": "Plan",
+      "rdcPath": "alice_margatroid.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "alucard",
+      "name": "Alucard",
+      "imagePath": "alucard.png",
+      "author": "Nintoaster",
+      "rdcPath": "alucard.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "arcana",
+      "name": "Arcana",
+      "imagePath": "arcana.png",
+      "author": "Arcane",
+      "rdcPath": "arcana.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "aroace_samus_ii",
+      "name": "Aroace Samus II",
+      "imagePath": "aroace_samus_ii.png",
+      "author": "mm2nescartridge",
+      "rdcPath": "aroace_samus_ii.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "aroace_samus",
+      "name": "AroAce Samus",
+      "imagePath": "aroace_samus.png",
+      "author": "mm2nescartridge",
+      "rdcPath": "aroace_samus.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "b_o_b_",
+      "name": "B.O.B.",
+      "imagePath": "b_o_b_.png",
+      "author": "SpoonyBard",
+      "rdcPath": "b_o_b_.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "brad_fang",
+      "name": "Brad Fang",
+      "imagePath": "brad_fang.png",
+      "author": "Akai Azul",
+      "rdcPath": "brad_fang.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "bruno",
+      "name": "Bruno",
+      "imagePath": "bruno.png",
+      "author": "SunWu, Looking4Giants",
+      "rdcPath": "bruno.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "buffed_eggplant",
+      "name": "Buffed Eggplant",
+      "imagePath": "buffed_eggplant.png",
+      "author": "Fredz00z",
+      "rdcPath": "buffed_eggplant.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "buffed_pug",
+      "name": "Buffed Pug",
+      "imagePath": "buffed_pug.png",
+      "author": "Fredz00z",
+      "rdcPath": "buffed_pug.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "buffed_kirby",
+      "name": "Buffed Kirby",
+      "imagePath": "buffed_kirby.png",
+      "author": "Fredz00z",
+      "rdcPath": "buffed_kirby.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "captain_novolin",
+      "name": "Captain Novolin",
+      "imagePath": "captain_novolin.png",
+      "author": "PaddyCo",
+      "rdcPath": "captain_novolin.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "ceroba_ketsukane",
+      "name": "Ceroba Ketsukane",
+      "imagePath": "ceroba_ketsukane.png",
+      "author": "Dewutt610",
+      "rdcPath": "ceroba_ketsukane.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "chairdeep",
+      "name": "Chairdeep",
+      "imagePath": "chairdeep.png",
+      "author": "_aitchFactor",
+      "rdcPath": "chairdeep.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "charizard",
+      "name": "Charizard",
+      "imagePath": "charizard.png",
+      "author": "Chamander106",
+      "rdcPath": "charizard.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "charlotte_aulin",
+      "name": "Charlotte Aulin",
+      "imagePath": "charlotte_aulin.png",
+      "author": "Jonacrab",
+      "rdcPath": "charlotte_aulin.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "crewmate",
+      "name": "Crewmate",
+      "imagePath": "crewmate.png",
+      "author": "_aitchFactor",
+      "rdcPath": "crewmate.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "cuphead",
+      "name": "Cuphead",
+      "imagePath": "cuphead.png",
+      "author": "Fredz00z",
+      "rdcPath": "cuphead.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "dark_samus",
+      "name": "Dark Samus",
+      "imagePath": "dark_samus.png",
+      "author": "TarThoron",
+      "rdcPath": "dark_samus.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "diddy_kong",
+      "name": "Diddy Kong",
+      "imagePath": "diddy_kong.png",
+      "author": "Di10",
+      "rdcPath": "diddy_kong.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "dread",
+      "name": "Dread",
+      "imagePath": "dread.png",
+      "author": "Wandering Spider",
+      "rdcPath": "dread.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "dream_team_mario",
+      "name": "Dream Team Mario",
+      "imagePath": "dream_team_mario.png",
+      "author": "Dawn",
+      "rdcPath": "dream_team_mario.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "earthworm_jim",
+      "name": "Earthworm Jim",
+      "imagePath": "earthworm_jim.png",
+      "author": "Fredz00z",
+      "rdcPath": "earthworm_jim.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "enby_pride",
+      "name": "Enby Pride",
+      "imagePath": "enby_pride.png",
+      "author": "Glove",
+      "rdcPath": "enby_pride.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "federation_trooper",
+      "name": "Federation Trooper",
+      "imagePath": "federation_trooper.png",
+      "author": "Physix",
+      "rdcPath": "federation_trooper.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "fight",
+      "name": "Fight",
+      "imagePath": "fight.png",
+      "author": "Spoony",
+      "rdcPath": "fight.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "fusion_green_",
+      "name": "Fusion (Green)",
+      "imagePath": "fusion_green_.png",
+      "author": "Galamoz",
+      "rdcPath": "fusion_green_.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "goku",
+      "name": "Goku",
+      "imagePath": "goku.png",
+      "author": "Fredz00z",
+      "rdcPath": "goku.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "inkling_girl_v2",
+      "name": "Inkling Girl v2",
+      "imagePath": "inkling_girl_v2.png",
+      "author": "Ouily644",
+      "rdcPath": "inkling_girl_v2.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "janky",
+      "name": "Janky",
+      "imagePath": "janky.png",
+      "author": "extranogabu",
+      "rdcPath": "janky.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "junko",
+      "name": "Junko",
+      "imagePath": "junko.png",
+      "author": "P. Yoshi",
+      "rdcPath": "junko.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "justin_bailey",
+      "name": "Justin Bailey",
+      "imagePath": "justin_bailey.png",
+      "author": "Auximines",
+      "rdcPath": "justin_bailey.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "kiara",
+      "name": "Kiara",
+      "imagePath": "kiara.png",
+      "author": "Shinobufujiko",
+      "rdcPath": "kiara.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "king_graham",
+      "name": "King Graham",
+      "imagePath": "king_graham.png",
+      "author": "Fragger",
+      "rdcPath": "king_graham.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "kirby",
+      "name": "Kirby",
+      "imagePath": "kirby.png",
+      "author": "Wandering Spider",
+      "rdcPath": "kirby.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "knuckles",
+      "name": "Knuckles",
+      "imagePath": "knuckles.png",
+      "author": "Fredz00z",
+      "rdcPath": "knuckles.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "leading_edge_samus",
+      "name": "Leading Edge Samus",
+      "imagePath": "leading_edge_samus.png",
+      "author": "Kyzentun",
+      "rdcPath": "leading_edge_samus.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "left_leg_samus",
+      "name": "Left Leg Samus",
+      "imagePath": "left_leg_samus.png",
+      "author": "kyzentun",
+      "rdcPath": "left_leg_samus.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "link_2_the_past",
+      "name": "Link 2 The Past",
+      "imagePath": "link_2_the_past.png",
+      "author": "Little Leaden Hearts",
+      "rdcPath": "link_2_the_past.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "link_oot_",
+      "name": "Link (OoT)",
+      "imagePath": "link_oot_.png",
+      "author": "RonnSama",
+      "rdcPath": "link_oot_.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "luigi",
+      "name": "Luigi",
+      "imagePath": "luigi.png",
+      "author": "RonnSama",
+      "rdcPath": "luigi.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "madeline",
+      "name": "Madeline",
+      "imagePath": "madeline.png",
+      "author": "Dawn",
+      "rdcPath": "madeline.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "maria_pollo",
+      "name": "Maria Pollo",
+      "imagePath": "maria_pollo.png",
+      "author": "MoeChicken",
+      "rdcPath": "maria_pollo.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "maria_renard",
+      "name": "Maria Renard",
+      "imagePath": "maria_renard.png",
+      "author": "Little Leaden Hearts",
+      "rdcPath": "maria_renard.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "mario_smw_",
+      "name": "Mario (SMW)",
+      "imagePath": "mario_smw_.png",
+      "author": "SthianFel64",
+      "rdcPath": "mario_smw_.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "mario_dreamteam",
+      "name": "Mario Dreamteam",
+      "imagePath": "mario_dreamteam.png",
+      "author": "Dawn",
+      "rdcPath": "mario_dreamteam.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "master_hand",
+      "name": "Master Hand",
+      "imagePath": "master_hand.png",
+      "author": "Fredz00z",
+      "rdcPath": "master_hand.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "maxim_kischine",
+      "name": "Maxim Kischine",
+      "imagePath": "maxim_kischine.png",
+      "author": "Little Leaden Hearts",
+      "rdcPath": "maxim_kischine.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "mega_man_x",
+      "name": "Mega Man X",
+      "imagePath": "mega_man_x.png",
+      "author": "Artheau",
+      "rdcPath": "mega_man_x.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "megaman_x_bearded_",
+      "name": "MegaMan X (Bearded)",
+      "imagePath": "megaman_x_bearded_.png",
+      "author": "Involuntarymillenial",
+      "rdcPath": "megaman_x_bearded_.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "metroid",
+      "name": "Metroid",
+      "imagePath": "metroid.png",
+      "author": "Fingers McGee",
+      "rdcPath": "metroid.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "mini_samus",
+      "name": "Mini Samus",
+      "imagePath": "mini_samus.png",
+      "author": "Kyzentum",
+      "rdcPath": "mini_samus.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "missingno",
+      "name": "missingno",
+      "imagePath": "missingno.png",
+      "author": "Little Leaden Hearts",
+      "rdcPath": "missingno.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "moonclif",
+      "name": "Moonclif",
+      "imagePath": "moonclif.png",
+      "author": "Lougaroc",
+      "rdcPath": "moonclif.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "opposition",
+      "name": "Opposition",
+      "imagePath": "opposition.png",
+      "author": "mccad00",
+      "rdcPath": "opposition.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "outline_samus",
+      "name": "Outline Samus",
+      "imagePath": "outline_samus.png",
+      "author": "Fredz00z",
+      "rdcPath": "outline_samus.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "ped_suit_samus",
+      "name": "PED Suit Samus",
+      "imagePath": "ped_suit_samus.png",
+      "author": "Mattroid",
+      "rdcPath": "ped_suit_samus.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "plissken",
+      "name": "Plissken",
+      "imagePath": "plissken.png",
+      "author": "Akai Azul",
+      "rdcPath": "plissken.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "protogen_laso",
+      "name": "Protogen Laso",
+      "imagePath": "protogen_laso.png",
+      "author": "Purple Peak",
+      "rdcPath": "protogen_laso.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "pyronett",
+      "name": "Pyronett",
+      "imagePath": "pyronett.png",
+      "author": "DaWildWildWes",
+      "rdcPath": "pyronett.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "ronald_mcdonald",
+      "name": "Ronald McDonald",
+      "imagePath": "ronald_mcdonald.png",
+      "author": "Fredz00z",
+      "rdcPath": "ronald_mcdonald.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "samus_maid",
+      "name": "Samus Maid",
+      "imagePath": "samus_maid.png",
+      "author": "Ouily644",
+      "rdcPath": "samus_maid.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "samus_returns",
+      "name": "Samus Returns",
+      "imagePath": "samus_returns.png",
+      "author": "Mattroid",
+      "rdcPath": "samus_returns.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "sans",
+      "name": "Sans",
+      "imagePath": "sans.png",
+      "author": "Ouily644",
+      "rdcPath": "sans.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "sfc_contoller",
+      "name": "SFC Contoller",
+      "imagePath": "sfc_contoller.png",
+      "author": "Fredz00z",
+      "rdcPath": "sfc_contoller.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "shaktool",
+      "name": "Shaktool",
+      "imagePath": "shaktool.png",
+      "author": "Pneumatic",
+      "rdcPath": "shaktool.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "shaktool_jr_",
+      "name": "Shaktool Jr.",
+      "imagePath": "shaktool_jr_.png",
+      "author": "Pneumatic",
+      "rdcPath": "shaktool_jr_.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "shantae",
+      "name": "Shantae",
+      "imagePath": "shantae.png",
+      "author": "Fredz00z",
+      "rdcPath": "shantae.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "sonic",
+      "name": "Sonic",
+      "imagePath": "sonic.png",
+      "author": "Fredz00z",
+      "rdcPath": "sonic.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "sprite",
+      "name": "Sprite",
+      "imagePath": "sprite.png",
+      "author": "TarThoron",
+      "rdcPath": "sprite.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "super_controid_pg_",
+      "name": "Super Controid (PG)",
+      "imagePath": "super_controid_pg_.png",
+      "author": "Nintoaster",
+      "rdcPath": "super_controid_pg_.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "tails",
+      "name": "Tails",
+      "imagePath": "tails.png",
+      "author": "Fredz00z",
+      "rdcPath": "tails.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "tallink",
+      "name": "Tallink",
+      "imagePath": "tallink.png",
+      "author": "Little Leaden Hearts",
+      "rdcPath": "tallink.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "tetris",
+      "name": "Tetris",
+      "imagePath": "tetris.png",
+      "author": "Kyzentum",
+      "rdcPath": "tetris.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "thomcrow_corbin",
+      "name": "Thomcrow Corbin",
+      "imagePath": "thomcrow_corbin.png",
+      "author": "Thom",
+      "rdcPath": "thomcrow_corbin.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "trans_pride",
+      "name": "Trans Pride",
+      "imagePath": "trans_pride.png",
+      "author": "TarThoron",
+      "rdcPath": "trans_pride.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "wario",
+      "name": "Wario",
+      "imagePath": "wario.png",
+      "author": "Fredz00z",
+      "rdcPath": "wario.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "win95_cursor",
+      "name": "Win95 Cursor",
+      "imagePath": "win95_cursor.png",
+      "author": "PlaguedOne",
+      "rdcPath": "win95_cursor.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "yarn_kirby",
+      "name": "Yarn Kirby",
+      "imagePath": "yarn_kirby.png",
+      "author": "Dawn",
+      "rdcPath": "yarn_kirby.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "yoshi_baby_mario",
+      "name": "Yoshi & Baby Mario",
+      "imagePath": "yoshi_baby_mario.png",
+      "author": "Dawn",
+      "rdcPath": "yoshi_baby_mario.rdc",
+      "kind": "rdc/samus"
+    },
+    {
+      "value": "zero_mission",
+      "name": "Zero Mission",
+      "imagePath": "zero_mission.png",
+      "author": "Starry Melody",
+      "rdcPath": "zero_mission.rdc",
+      "kind": "rdc/samus"
+    }
+  ]
+}
