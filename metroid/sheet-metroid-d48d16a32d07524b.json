@@ -1,0 +1,665 @@
+{
+  "version": 1,
+  "game": "metroid",
+  "hash": "d48d16a32d07524b",
+  "generatedAt": "2025-09-30T08:57:20.535Z",
+  "sheet": {
+    "image": "sheet-metroid-d48d16a32d07524b.png",
+    "width": 2016,
+    "height": 256
+  },
+  "cell": {
+    "w": 96,
+    "h": 128
+  },
+  "sprites": [
+    {
+      "value": "alex_river_city_ransom_",
+      "name": "Alex (River City Ransom)",
+      "author": "Zero Meaning",
+      "x": 0,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "alex_river_city_ransom_.png"
+    },
+    {
+      "value": "bessie",
+      "name": "Bessie",
+      "author": "Zero Meaning",
+      "x": 96,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "bessie.png"
+    },
+    {
+      "value": "bill_rizer_lance_bean_contra_",
+      "name": "Bill Rizer/Lance Bean (Contra)",
+      "author": "Zero Meaning",
+      "x": 192,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "bill_rizer_lance_bean_contra_.png"
+    },
+    {
+      "value": "dawn_aran_helmet_rogue_dawn_",
+      "name": "Dawn Aran (Helmet) (Rogue Dawn)",
+      "author": "Zero Meaning",
+      "x": 288,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "dawn_aran_helmet_rogue_dawn_.png"
+    },
+    {
+      "value": "dawn_aran_pirate_suit_rogue_dawn_",
+      "name": "Dawn Aran (Pirate Suit) (Rogue Dawn)",
+      "author": "Zero Meaning",
+      "x": 384,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "dawn_aran_pirate_suit_rogue_dawn_.png"
+    },
+    {
+      "value": "dr_jekyll_dr_jekyll_and_mr_hyde_",
+      "name": "Dr. Jekyll (Dr. Jekyll and Mr. Hyde)",
+      "author": "Zero Meaning",
+      "x": 480,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "dr_jekyll_dr_jekyll_and_mr_hyde_.png"
+    },
+    {
+      "value": "glitchout",
+      "name": "Glitchout",
+      "author": "Zero Meaning",
+      "x": 576,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "glitchout.png"
+    },
+    {
+      "value": "infant_metroid_metroid_2_",
+      "name": "Infant Metroid (Metroid 2)",
+      "author": "Zero Meaning",
+      "x": 672,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "infant_metroid_metroid_2_.png"
+    },
+    {
+      "value": "item_stack",
+      "name": "Item Stack",
+      "author": "Zero Meaning",
+      "x": 768,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "item_stack.png"
+    },
+    {
+      "value": "justin_bailey_mdbtroid_",
+      "name": "Justin Bailey (MDbtroid)",
+      "author": "Zero Meaning",
+      "x": 864,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "justin_bailey_mdbtroid_.png"
+    },
+    {
+      "value": "justin_bailey_metroid_omega_",
+      "name": "Justin Bailey (Metroid Omega)",
+      "author": "Zero Meaning",
+      "x": 960,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "justin_bailey_metroid_omega_.png"
+    },
+    {
+      "value": "justin_bailey_metroid_redux_",
+      "name": "Justin Bailey (Metroid Redux)",
+      "author": "Zero Meaning",
+      "x": 1056,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "justin_bailey_metroid_redux_.png"
+    },
+    {
+      "value": "justin_bailey_roidz_",
+      "name": "Justin Bailey ('Roidz)",
+      "author": "Zero Meaning",
+      "x": 1152,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "justin_bailey_roidz_.png"
+    },
+    {
+      "value": "knight_final_fantasy_",
+      "name": "Knight (Final Fantasy)",
+      "author": "Zero Meaning",
+      "x": 1248,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "knight_final_fantasy_.png"
+    },
+    {
+      "value": "kraid",
+      "name": "Kraid",
+      "author": "Zero Meaning",
+      "x": 1344,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "kraid.png"
+    },
+    {
+      "value": "link",
+      "name": "Link",
+      "author": "Zero Meaning",
+      "x": 1440,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "link.png"
+    },
+    {
+      "value": "master_final_fantasy_",
+      "name": "Master (Final Fantasy)",
+      "author": "Zero Meaning",
+      "x": 1536,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "master_final_fantasy_.png"
+    },
+    {
+      "value": "mike_jones_startropics_",
+      "name": "Mike Jones (Startropics)",
+      "author": "Zero Meaning",
+      "x": 1632,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "mike_jones_startropics_.png"
+    },
+    {
+      "value": "mother_brain",
+      "name": "Mother Brain",
+      "author": "Zero Meaning",
+      "x": 1728,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "mother_brain.png"
+    },
+    {
+      "value": "mother_brain_2_super_metroid_",
+      "name": "Mother Brain 2 (Super Metroid)",
+      "author": "Zero Meaning",
+      "x": 1824,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "mother_brain_2_super_metroid_.png"
+    },
+    {
+      "value": "nathan_rad_spencer_bionic_commando_",
+      "name": "Nathan 'Rad' Spencer (Bionic Commando)",
+      "author": "Zero Meaning",
+      "x": 1920,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "nathan_rad_spencer_bionic_commando_.png"
+    },
+    {
+      "value": "pit_kid_icarus_",
+      "name": "Pit (Kid Icarus)",
+      "author": "Zero Meaning",
+      "x": 0,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "pit_kid_icarus_.png"
+    },
+    {
+      "value": "ridien_project_ridien_",
+      "name": "Ridien (Project Ridien)",
+      "author": "Zero Meaning",
+      "x": 96,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "ridien_project_ridien_.png"
+    },
+    {
+      "value": "samus",
+      "name": "Samus",
+      "author": "Nintendo",
+      "x": 192,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus.png"
+    },
+    {
+      "value": "samus_beta_",
+      "name": "Samus (Beta)",
+      "author": "Zero Meaning",
+      "x": 288,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_beta_.png"
+    },
+    {
+      "value": "samus_invisible_",
+      "name": "Samus (Invisible)",
+      "author": "Zero Meaning",
+      "x": 384,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_invisible_.png"
+    },
+    {
+      "value": "samus_mdbtroid_",
+      "name": "Samus (MDbtroid)",
+      "author": "Zero Meaning",
+      "x": 480,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_mdbtroid_.png"
+    },
+    {
+      "value": "samus_metroid_c_",
+      "name": "Samus (Metroid C)",
+      "author": "Zero Meaning",
+      "x": 576,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_metroid_c_.png"
+    },
+    {
+      "value": "samus_metroid_captive_",
+      "name": "Samus (Metroid Captive)",
+      "author": "Zero Meaning",
+      "x": 672,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_metroid_captive_.png"
+    },
+    {
+      "value": "samus_metroid_omega_",
+      "name": "Samus (Metroid Omega)",
+      "author": "Zero Meaning",
+      "x": 768,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_metroid_omega_.png"
+    },
+    {
+      "value": "samus_metroid_redux_",
+      "name": "Samus (Metroid Redux)",
+      "author": "Zero Meaning",
+      "x": 864,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_metroid_redux_.png"
+    },
+    {
+      "value": "samus_outline_",
+      "name": "Samus (Outline)",
+      "author": "Zero Meaning",
+      "x": 960,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_outline_.png"
+    },
+    {
+      "value": "samus_roidz_",
+      "name": "Samus ('Roidz)",
+      "author": "Zero Meaning",
+      "x": 1056,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_roidz_.png"
+    },
+    {
+      "value": "samus_xmas_",
+      "name": "Samus (Xmas)",
+      "author": "Zero Meaning",
+      "x": 1152,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "samus_xmas_.png"
+    },
+    {
+      "value": "shadow_samus",
+      "name": "Shadow Samus",
+      "author": "Zero Meaning",
+      "x": 1248,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "shadow_samus.png"
+    },
+    {
+      "value": "simon_belmont_castlevania_",
+      "name": "Simon Belmont (Castlevania)",
+      "author": "Zero Meaning",
+      "x": 1344,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "simon_belmont_castlevania_.png"
+    },
+    {
+      "value": "super_mario_super_mario_bros_",
+      "name": "Super Mario (Super Mario Bros.)",
+      "author": "Zero Meaning",
+      "x": 1440,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "super_mario_super_mario_bros_.png"
+    },
+    {
+      "value": "zelda",
+      "name": "Zelda",
+      "author": "Zero Meaning",
+      "x": 1536,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "originalImagePath": "zelda.png"
+    }
+  ],
+  "byValue": {
+    "alex_river_city_ransom_": {
+      "x": 0,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 0
+    },
+    "bessie": {
+      "x": 96,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 1
+    },
+    "bill_rizer_lance_bean_contra_": {
+      "x": 192,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 2
+    },
+    "dawn_aran_helmet_rogue_dawn_": {
+      "x": 288,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 3
+    },
+    "dawn_aran_pirate_suit_rogue_dawn_": {
+      "x": 384,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 4
+    },
+    "dr_jekyll_dr_jekyll_and_mr_hyde_": {
+      "x": 480,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 5
+    },
+    "glitchout": {
+      "x": 576,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 6
+    },
+    "infant_metroid_metroid_2_": {
+      "x": 672,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 7
+    },
+    "item_stack": {
+      "x": 768,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 8
+    },
+    "justin_bailey_mdbtroid_": {
+      "x": 864,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 9
+    },
+    "justin_bailey_metroid_omega_": {
+      "x": 960,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 10
+    },
+    "justin_bailey_metroid_redux_": {
+      "x": 1056,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 11
+    },
+    "justin_bailey_roidz_": {
+      "x": 1152,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 12
+    },
+    "knight_final_fantasy_": {
+      "x": 1248,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 13
+    },
+    "kraid": {
+      "x": 1344,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 14
+    },
+    "link": {
+      "x": 1440,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 15
+    },
+    "master_final_fantasy_": {
+      "x": 1536,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 16
+    },
+    "mike_jones_startropics_": {
+      "x": 1632,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 17
+    },
+    "mother_brain": {
+      "x": 1728,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 18
+    },
+    "mother_brain_2_super_metroid_": {
+      "x": 1824,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 19
+    },
+    "nathan_rad_spencer_bionic_commando_": {
+      "x": 1920,
+      "y": 0,
+      "w": 96,
+      "h": 128,
+      "i": 20
+    },
+    "pit_kid_icarus_": {
+      "x": 0,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 21
+    },
+    "ridien_project_ridien_": {
+      "x": 96,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 22
+    },
+    "samus": {
+      "x": 192,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 23
+    },
+    "samus_beta_": {
+      "x": 288,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 24
+    },
+    "samus_invisible_": {
+      "x": 384,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 25
+    },
+    "samus_mdbtroid_": {
+      "x": 480,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 26
+    },
+    "samus_metroid_c_": {
+      "x": 576,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 27
+    },
+    "samus_metroid_captive_": {
+      "x": 672,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 28
+    },
+    "samus_metroid_omega_": {
+      "x": 768,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 29
+    },
+    "samus_metroid_redux_": {
+      "x": 864,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 30
+    },
+    "samus_outline_": {
+      "x": 960,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 31
+    },
+    "samus_roidz_": {
+      "x": 1056,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 32
+    },
+    "samus_xmas_": {
+      "x": 1152,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 33
+    },
+    "shadow_samus": {
+      "x": 1248,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 34
+    },
+    "simon_belmont_castlevania_": {
+      "x": 1344,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 35
+    },
+    "super_mario_super_mario_bros_": {
+      "x": 1440,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 36
+    },
+    "zelda": {
+      "x": 1536,
+      "y": 128,
+      "w": 96,
+      "h": 128,
+      "i": 37
+    }
+  }
+}
