@@ -1,0 +1,1821 @@
+{
+  "version": 1,
+  "game": "zelda1",
+  "hash": "d81b6fa3a97b0840",
+  "generatedAt": "2025-09-30T08:26:39.525Z",
+  "sheet": {
+    "image": "sheet-zelda1-d81b6fa3a97b0840.png",
+    "width": 2048,
+    "height": 16
+  },
+  "cell": {
+    "w": 16,
+    "h": 16
+  },
+  "sprites": [
+    {
+      "value": "abobo_abobo_s_big_adventure_",
+      "name": "Abobo (Abobo's Big Adventure)",
+      "author": "Zero Meaning",
+      "x": 0,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "abobo_abobo_s_big_adventure_.png"
+    },
+    {
+      "value": "agitha_hyrule_warriors_",
+      "name": "Agitha (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 16,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "agitha_hyrule_warriors_.png"
+    },
+    {
+      "value": "armos",
+      "name": "Armos",
+      "author": "Zero Meaning",
+      "x": 32,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "armos.png"
+    },
+    {
+      "value": "bait",
+      "name": "Bait",
+      "author": "Zero Meaning",
+      "x": 48,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "bait.png"
+    },
+    {
+      "value": "bard_final_fantasy_iii_",
+      "name": "Bard (Final Fantasy III)",
+      "author": "Zero Meaning",
+      "x": 64,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "bard_final_fantasy_iii_.png"
+    },
+    {
+      "value": "benjamin_mystic_quest_",
+      "name": "Benjamin (Mystic Quest)",
+      "author": "Zero Meaning",
+      "x": 80,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "benjamin_mystic_quest_.png"
+    },
+    {
+      "value": "black_mage_final_fantasy_",
+      "name": "Black Mage (Final Fantasy)",
+      "author": "Zero Meaning",
+      "x": 96,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "black_mage_final_fantasy_.png"
+    },
+    {
+      "value": "block",
+      "name": "Block",
+      "author": "Zero Meaning",
+      "x": 112,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "block.png"
+    },
+    {
+      "value": "book",
+      "name": "Book",
+      "author": "Zero Meaning",
+      "x": 128,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "book.png"
+    },
+    {
+      "value": "brinstar_statue",
+      "name": "Brinstar Statue",
+      "author": "Zero Meaning",
+      "x": 144,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "brinstar_statue.png"
+    },
+    {
+      "value": "bub_bob_bubble_bobble_",
+      "name": "Bub/Bob (Bubble Bobble)",
+      "author": "Zero Meaning",
+      "x": 160,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "bub_bob_bubble_bobble_.png"
+    },
+    {
+      "value": "bush",
+      "name": "Bush",
+      "author": "Zero Meaning",
+      "x": 176,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "bush.png"
+    },
+    {
+      "value": "cecil_final_fantasy_iv_",
+      "name": "Cecil (Final Fantasy IV)",
+      "author": "Zero Meaning",
+      "x": 192,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "cecil_final_fantasy_iv_.png"
+    },
+    {
+      "value": "child_zelda_2_",
+      "name": "Child (Zelda 2)",
+      "author": "Zero Meaning",
+      "x": 208,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "child_zelda_2_.png"
+    },
+    {
+      "value": "cia_hyrule_warriors_",
+      "name": "Cia (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 224,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "cia_hyrule_warriors_.png"
+    },
+    {
+      "value": "darunia_hyrule_warriors_",
+      "name": "Darunia (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 240,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "darunia_hyrule_warriors_.png"
+    },
+    {
+      "value": "digdogger",
+      "name": "Digdogger",
+      "author": "Zero Meaning",
+      "x": 256,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "digdogger.png"
+    },
+    {
+      "value": "dwarven_swordsmith",
+      "name": "Dwarven Swordsmith",
+      "author": "Zero Meaning",
+      "x": 272,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "dwarven_swordsmith.png"
+    },
+    {
+      "value": "eggplant",
+      "name": "Eggplant",
+      "author": "MetalMachine",
+      "x": 288,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "eggplant.png"
+    },
+    {
+      "value": "ethan_pok_mon_",
+      "name": "Ethan (Pokémon)",
+      "author": "Zero Meaning",
+      "x": 304,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "ethan_pok_mon_.png"
+    },
+    {
+      "value": "fi_hyrule_warriors_",
+      "name": "Fi (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 320,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "fi_hyrule_warriors_.png"
+    },
+    {
+      "value": "fighter_final_fantasy_",
+      "name": "Fighter (Final Fantasy)",
+      "author": "Zero Meaning",
+      "x": 336,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "fighter_final_fantasy_.png"
+    },
+    {
+      "value": "frog_a_link_to_the_past_",
+      "name": "Frog (A Link To The Past)",
+      "author": "Zero Meaning",
+      "x": 352,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "frog_a_link_to_the_past_.png"
+    },
+    {
+      "value": "ganon",
+      "name": "Ganon",
+      "author": "Zero Meaning",
+      "x": 368,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "ganon.png"
+    },
+    {
+      "value": "ganondorf_hyrule_warriors_",
+      "name": "Ganondorf (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 384,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "ganondorf_hyrule_warriors_.png"
+    },
+    {
+      "value": "gerudo_outfit_breath_of_the_wild_",
+      "name": "Gerudo Outfit (Breath of the Wild)",
+      "author": "Zero Meaning",
+      "x": 400,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "gerudo_outfit_breath_of_the_wild_.png"
+    },
+    {
+      "value": "ghini",
+      "name": "Ghini",
+      "author": "Zero Meaning",
+      "x": 416,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "ghini.png"
+    },
+    {
+      "value": "ghirahim_hyrule_warriors_",
+      "name": "Ghirahim (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 432,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "ghirahim_hyrule_warriors_.png"
+    },
+    {
+      "value": "gleeok_head",
+      "name": "Gleeok Head",
+      "author": "Zero Meaning",
+      "x": 448,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "gleeok_head.png"
+    },
+    {
+      "value": "goron_oracle_series_",
+      "name": "Goron (Oracle Series)",
+      "author": "Zero Meaning",
+      "x": 464,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "goron_oracle_series_.png"
+    },
+    {
+      "value": "heart_container",
+      "name": "Heart Container",
+      "author": "Zero Meaning",
+      "x": 480,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "heart_container.png"
+    },
+    {
+      "value": "hero_dragon_warrior_",
+      "name": "Hero (Dragon Warrior)",
+      "author": "Zero Meaning",
+      "x": 496,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "hero_dragon_warrior_.png"
+    },
+    {
+      "value": "holly_oracle_of_seasons_",
+      "name": "Holly (Oracle of Seasons)",
+      "author": "Zero Meaning",
+      "x": 512,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "holly_oracle_of_seasons_.png"
+    },
+    {
+      "value": "impa_hyrule_warriors_",
+      "name": "Impa (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 528,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "impa_hyrule_warriors_.png"
+    },
+    {
+      "value": "jim_hydlide_",
+      "name": "Jim (Hydlide)",
+      "author": "Zero Meaning",
+      "x": 544,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "jim_hydlide_.png"
+    },
+    {
+      "value": "justin_bailey",
+      "name": "Justin Bailey",
+      "author": "Zero Meaning",
+      "x": 560,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "justin_bailey.png"
+    },
+    {
+      "value": "kaeli_mystic_quest_",
+      "name": "Kaeli (Mystic Quest)",
+      "author": "Zero Meaning",
+      "x": 576,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "kaeli_mystic_quest_.png"
+    },
+    {
+      "value": "kraid",
+      "name": "Kraid",
+      "author": "Zero Meaning",
+      "x": 592,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "kraid.png"
+    },
+    {
+      "value": "kris_pok_mon_",
+      "name": "Kris (Pokémon)",
+      "author": "Zero Meaning",
+      "x": 608,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "kris_pok_mon_.png"
+    },
+    {
+      "value": "lana_hyrule_warriors_",
+      "name": "Lana (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 624,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "lana_hyrule_warriors_.png"
+    },
+    {
+      "value": "link",
+      "name": "Link",
+      "author": "Nintendo",
+      "x": 640,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link.png"
+    },
+    {
+      "value": "link_breath_of_the_wild_",
+      "name": "Link (Breath of the Wild)",
+      "author": "Zero Meaning",
+      "x": 656,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_breath_of_the_wild_.png"
+    },
+    {
+      "value": "link_bunny_",
+      "name": "Link (Bunny)",
+      "author": "Zero Meaning",
+      "x": 672,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_bunny_.png"
+    },
+    {
+      "value": "link_female_",
+      "name": "Link (Female)",
+      "author": "Zero Meaning",
+      "x": 688,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_female_.png"
+    },
+    {
+      "value": "link_invisible_",
+      "name": "Link (Invisible)",
+      "author": "Zero Meaning",
+      "x": 704,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_invisible_.png"
+    },
+    {
+      "value": "link_link_s_awakening_",
+      "name": "Link (Link's Awakening)",
+      "author": "Zero Meaning",
+      "x": 720,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_link_s_awakening_.png"
+    },
+    {
+      "value": "link_outline_",
+      "name": "Link (Outline)",
+      "author": "Zero Meaning",
+      "x": 736,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_outline_.png"
+    },
+    {
+      "value": "link_santa_",
+      "name": "Link (Santa)",
+      "author": "Zero Meaning",
+      "x": 752,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_santa_.png"
+    },
+    {
+      "value": "link_the_legend_of_link_",
+      "name": "Link (The Legend of Link)",
+      "author": "Zero Meaning",
+      "x": 768,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_the_legend_of_link_.png"
+    },
+    {
+      "value": "link_trial_of_courage_",
+      "name": "Link (Trial of Courage)",
+      "author": "Zero Meaning",
+      "x": 784,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_trial_of_courage_.png"
+    },
+    {
+      "value": "link_upside-down_",
+      "name": "Link (Upside-Down)",
+      "author": "Zero Meaning",
+      "x": 800,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_upside-down_.png"
+    },
+    {
+      "value": "link_zelda_2_",
+      "name": "Link (Zelda 2)",
+      "author": "Zero Meaning",
+      "x": 816,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "link_zelda_2_.png"
+    },
+    {
+      "value": "linkle",
+      "name": "Linkle",
+      "author": "Zero Meaning",
+      "x": 832,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "linkle.png"
+    },
+    {
+      "value": "manhandla_stem_",
+      "name": "Manhandla (Stem)",
+      "author": "Zero Meaning",
+      "x": 848,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "manhandla_stem_.png"
+    },
+    {
+      "value": "maria_final_fantasy_ii_",
+      "name": "Maria (Final Fantasy II)",
+      "author": "Zero Meaning",
+      "x": 864,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "maria_final_fantasy_ii_.png"
+    },
+    {
+      "value": "marin_hyrule_warriors_",
+      "name": "Marin (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 880,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "marin_hyrule_warriors_.png"
+    },
+    {
+      "value": "marin_link_s_awakening_",
+      "name": "Marin (Link's Awakening)",
+      "author": "Zero Meaning",
+      "x": 896,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "marin_link_s_awakening_.png"
+    },
+    {
+      "value": "mario_super_mario_land_2_",
+      "name": "Mario (Super Mario Land 2)",
+      "author": "Zero Meaning",
+      "x": 912,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "mario_super_mario_land_2_.png"
+    },
+    {
+      "value": "midna_imp_form_hyrule_warriors_",
+      "name": "Midna (Imp Form) (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 928,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "midna_imp_form_hyrule_warriors_.png"
+    },
+    {
+      "value": "midna_true_form_hyrule_warriors_",
+      "name": "Midna (True Form) (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 944,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "midna_true_form_hyrule_warriors_.png"
+    },
+    {
+      "value": "missile",
+      "name": "Missile",
+      "author": "Zero Meaning",
+      "x": 960,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "missile.png"
+    },
+    {
+      "value": "moblin",
+      "name": "Moblin",
+      "author": "Zero Meaning",
+      "x": 976,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "moblin.png"
+    },
+    {
+      "value": "mother_brain",
+      "name": "Mother Brain",
+      "author": "Zero Meaning",
+      "x": 992,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "mother_brain.png"
+    },
+    {
+      "value": "nayru",
+      "name": "Nayru",
+      "author": "Zero Meaning",
+      "x": 1008,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "nayru.png"
+    },
+    {
+      "value": "octorok",
+      "name": "Octorok",
+      "author": "Zero Meaning",
+      "x": 1024,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "octorok.png"
+    },
+    {
+      "value": "old_man",
+      "name": "Old Man",
+      "author": "Zero Meaning",
+      "x": 1040,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "old_man.png"
+    },
+    {
+      "value": "old_man_link_s_awakening_",
+      "name": "Old Man (Link's Awakening)",
+      "author": "Zero Meaning",
+      "x": 1056,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "old_man_link_s_awakening_.png"
+    },
+    {
+      "value": "old_woman",
+      "name": "Old Woman",
+      "author": "Zero Meaning",
+      "x": 1072,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "old_woman.png"
+    },
+    {
+      "value": "phoebe_mystic_quest_",
+      "name": "Phoebe (Mystic Quest)",
+      "author": "Zero Meaning",
+      "x": 1088,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "phoebe_mystic_quest_.png"
+    },
+    {
+      "value": "piratian",
+      "name": "Piratian",
+      "author": "Zero Meaning",
+      "x": 1104,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "piratian.png"
+    },
+    {
+      "value": "plasma_beam_metroid_2_",
+      "name": "Plasma Beam (Metroid 2)",
+      "author": "Zero Meaning",
+      "x": 1120,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "plasma_beam_metroid_2_.png"
+    },
+    {
+      "value": "player_bs_boy_",
+      "name": "Player (BS Boy)",
+      "author": "Zero Meaning",
+      "x": 1136,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "player_bs_boy_.png"
+    },
+    {
+      "value": "player_bs_girl_",
+      "name": "Player (BS Girl)",
+      "author": "Zero Meaning",
+      "x": 1152,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "player_bs_girl_.png"
+    },
+    {
+      "value": "pochi_legacy_of_the_wizard_",
+      "name": "Pochi (Legacy of the Wizard)",
+      "author": "Zero Meaning",
+      "x": 1168,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "pochi_legacy_of_the_wizard_.png"
+    },
+    {
+      "value": "pols_voice",
+      "name": "Pols Voice",
+      "author": "Zero Meaning",
+      "x": 1184,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "pols_voice.png"
+    },
+    {
+      "value": "prince_of_sabl_",
+      "name": "Prince of Sablé",
+      "author": "Zero Meaning",
+      "x": 1200,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "prince_of_sabl_.png"
+    },
+    {
+      "value": "ravio_hyrule_warriors_",
+      "name": "Ravio (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1216,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "ravio_hyrule_warriors_.png"
+    },
+    {
+      "value": "reuben_mystic_quest_",
+      "name": "Reuben (Mystic Quest)",
+      "author": "Zero Meaning",
+      "x": 1232,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "reuben_mystic_quest_.png"
+    },
+    {
+      "value": "richard_link_s_awakening_",
+      "name": "Richard (Link's Awakening)",
+      "author": "Zero Meaning",
+      "x": 1248,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "richard_link_s_awakening_.png"
+    },
+    {
+      "value": "rinka",
+      "name": "Rinka",
+      "author": "Zero Meaning",
+      "x": 1264,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "rinka.png"
+    },
+    {
+      "value": "rope",
+      "name": "Rope",
+      "author": "Zero Meaning",
+      "x": 1280,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "rope.png"
+    },
+    {
+      "value": "ruto_hyrule_warriors_",
+      "name": "Ruto (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1296,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "ruto_hyrule_warriors_.png"
+    },
+    {
+      "value": "samus",
+      "name": "Samus",
+      "author": "Zero Meaning",
+      "x": 1312,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "samus.png"
+    },
+    {
+      "value": "saria",
+      "name": "Saria",
+      "author": "Zero Meaning",
+      "x": 1328,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "saria.png"
+    },
+    {
+      "value": "shadow_link",
+      "name": "Shadow Link",
+      "author": "Zero Meaning",
+      "x": 1344,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "shadow_link.png"
+    },
+    {
+      "value": "sheik_hyrule_warriors_",
+      "name": "Sheik (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1360,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "sheik_hyrule_warriors_.png"
+    },
+    {
+      "value": "shopkeeper",
+      "name": "Shopkeeper",
+      "author": "Zero Meaning",
+      "x": 1376,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "shopkeeper.png"
+    },
+    {
+      "value": "subrosian",
+      "name": "Subrosian",
+      "author": "Zero Meaning",
+      "x": 1392,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "subrosian.png"
+    },
+    {
+      "value": "tingle_hyrule_warriors_",
+      "name": "Tingle (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1408,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "tingle_hyrule_warriors_.png"
+    },
+    {
+      "value": "tokay",
+      "name": "Tokay",
+      "author": "Zero Meaning",
+      "x": 1424,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "tokay.png"
+    },
+    {
+      "value": "trendy_game_shop_owner",
+      "name": "Trendy Game Shop Owner",
+      "author": "Zero Meaning",
+      "x": 1440,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "trendy_game_shop_owner.png"
+    },
+    {
+      "value": "triforce_keeper",
+      "name": "Triforce Keeper",
+      "author": "Zero Meaning",
+      "x": 1456,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "triforce_keeper.png"
+    },
+    {
+      "value": "tristam_mystic_quest_",
+      "name": "Tristam (Mystic Quest)",
+      "author": "Zero Meaning",
+      "x": 1472,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "tristam_mystic_quest_.png"
+    },
+    {
+      "value": "tuni_nut_girl",
+      "name": "Tuni Nut Girl",
+      "author": "Zero Meaning",
+      "x": 1488,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "tuni_nut_girl.png"
+    },
+    {
+      "value": "viking_final_fantasy_iii_",
+      "name": "Viking (Final Fantasy III)",
+      "author": "Zero Meaning",
+      "x": 1504,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "viking_final_fantasy_iii_.png"
+    },
+    {
+      "value": "vire",
+      "name": "Vire",
+      "author": "Zero Meaning",
+      "x": 1520,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "vire.png"
+    },
+    {
+      "value": "volga_hyrule_warriors_",
+      "name": "Volga (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1536,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "volga_hyrule_warriors_.png"
+    },
+    {
+      "value": "white_mage_final_fantasy_iii_",
+      "name": "White Mage (Final Fantasy III)",
+      "author": "Zero Meaning",
+      "x": 1552,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "white_mage_final_fantasy_iii_.png"
+    },
+    {
+      "value": "wizzro_hyrule_warriors_",
+      "name": "Wizzro (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1568,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "wizzro_hyrule_warriors_.png"
+    },
+    {
+      "value": "wizzrobe",
+      "name": "Wizzrobe",
+      "author": "Zero Meaning",
+      "x": 1584,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "wizzrobe.png"
+    },
+    {
+      "value": "young_link_hyrule_warriors_",
+      "name": "Young Link (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1600,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "young_link_hyrule_warriors_.png"
+    },
+    {
+      "value": "zant_hyrule_warriors_",
+      "name": "Zant (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1616,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "zant_hyrule_warriors_.png"
+    },
+    {
+      "value": "zelda",
+      "name": "Zelda",
+      "author": "Zero Meaning",
+      "x": 1632,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "zelda.png"
+    },
+    {
+      "value": "zelda_breath_of_the_wild_",
+      "name": "Zelda (Breath of the Wild)",
+      "author": "Zero Meaning",
+      "x": 1648,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "zelda_breath_of_the_wild_.png"
+    },
+    {
+      "value": "zelda_hyrule_warriors_",
+      "name": "Zelda (Hyrule Warriors)",
+      "author": "Zero Meaning",
+      "x": 1664,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "zelda_hyrule_warriors_.png"
+    },
+    {
+      "value": "zoomer",
+      "name": "Zoomer",
+      "author": "Zero Meaning",
+      "x": 1680,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "originalImagePath": "zoomer.png"
+    }
+  ],
+  "byValue": {
+    "abobo_abobo_s_big_adventure_": {
+      "x": 0,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 0
+    },
+    "agitha_hyrule_warriors_": {
+      "x": 16,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 1
+    },
+    "armos": {
+      "x": 32,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 2
+    },
+    "bait": {
+      "x": 48,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 3
+    },
+    "bard_final_fantasy_iii_": {
+      "x": 64,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 4
+    },
+    "benjamin_mystic_quest_": {
+      "x": 80,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 5
+    },
+    "black_mage_final_fantasy_": {
+      "x": 96,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 6
+    },
+    "block": {
+      "x": 112,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 7
+    },
+    "book": {
+      "x": 128,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 8
+    },
+    "brinstar_statue": {
+      "x": 144,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 9
+    },
+    "bub_bob_bubble_bobble_": {
+      "x": 160,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 10
+    },
+    "bush": {
+      "x": 176,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 11
+    },
+    "cecil_final_fantasy_iv_": {
+      "x": 192,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 12
+    },
+    "child_zelda_2_": {
+      "x": 208,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 13
+    },
+    "cia_hyrule_warriors_": {
+      "x": 224,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 14
+    },
+    "darunia_hyrule_warriors_": {
+      "x": 240,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 15
+    },
+    "digdogger": {
+      "x": 256,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 16
+    },
+    "dwarven_swordsmith": {
+      "x": 272,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 17
+    },
+    "eggplant": {
+      "x": 288,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 18
+    },
+    "ethan_pok_mon_": {
+      "x": 304,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 19
+    },
+    "fi_hyrule_warriors_": {
+      "x": 320,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 20
+    },
+    "fighter_final_fantasy_": {
+      "x": 336,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 21
+    },
+    "frog_a_link_to_the_past_": {
+      "x": 352,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 22
+    },
+    "ganon": {
+      "x": 368,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 23
+    },
+    "ganondorf_hyrule_warriors_": {
+      "x": 384,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 24
+    },
+    "gerudo_outfit_breath_of_the_wild_": {
+      "x": 400,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 25
+    },
+    "ghini": {
+      "x": 416,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 26
+    },
+    "ghirahim_hyrule_warriors_": {
+      "x": 432,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 27
+    },
+    "gleeok_head": {
+      "x": 448,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 28
+    },
+    "goron_oracle_series_": {
+      "x": 464,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 29
+    },
+    "heart_container": {
+      "x": 480,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 30
+    },
+    "hero_dragon_warrior_": {
+      "x": 496,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 31
+    },
+    "holly_oracle_of_seasons_": {
+      "x": 512,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 32
+    },
+    "impa_hyrule_warriors_": {
+      "x": 528,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 33
+    },
+    "jim_hydlide_": {
+      "x": 544,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 34
+    },
+    "justin_bailey": {
+      "x": 560,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 35
+    },
+    "kaeli_mystic_quest_": {
+      "x": 576,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 36
+    },
+    "kraid": {
+      "x": 592,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 37
+    },
+    "kris_pok_mon_": {
+      "x": 608,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 38
+    },
+    "lana_hyrule_warriors_": {
+      "x": 624,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 39
+    },
+    "link": {
+      "x": 640,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 40
+    },
+    "link_breath_of_the_wild_": {
+      "x": 656,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 41
+    },
+    "link_bunny_": {
+      "x": 672,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 42
+    },
+    "link_female_": {
+      "x": 688,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 43
+    },
+    "link_invisible_": {
+      "x": 704,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 44
+    },
+    "link_link_s_awakening_": {
+      "x": 720,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 45
+    },
+    "link_outline_": {
+      "x": 736,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 46
+    },
+    "link_santa_": {
+      "x": 752,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 47
+    },
+    "link_the_legend_of_link_": {
+      "x": 768,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 48
+    },
+    "link_trial_of_courage_": {
+      "x": 784,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 49
+    },
+    "link_upside-down_": {
+      "x": 800,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 50
+    },
+    "link_zelda_2_": {
+      "x": 816,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 51
+    },
+    "linkle": {
+      "x": 832,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 52
+    },
+    "manhandla_stem_": {
+      "x": 848,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 53
+    },
+    "maria_final_fantasy_ii_": {
+      "x": 864,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 54
+    },
+    "marin_hyrule_warriors_": {
+      "x": 880,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 55
+    },
+    "marin_link_s_awakening_": {
+      "x": 896,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 56
+    },
+    "mario_super_mario_land_2_": {
+      "x": 912,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 57
+    },
+    "midna_imp_form_hyrule_warriors_": {
+      "x": 928,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 58
+    },
+    "midna_true_form_hyrule_warriors_": {
+      "x": 944,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 59
+    },
+    "missile": {
+      "x": 960,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 60
+    },
+    "moblin": {
+      "x": 976,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 61
+    },
+    "mother_brain": {
+      "x": 992,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 62
+    },
+    "nayru": {
+      "x": 1008,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 63
+    },
+    "octorok": {
+      "x": 1024,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 64
+    },
+    "old_man": {
+      "x": 1040,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 65
+    },
+    "old_man_link_s_awakening_": {
+      "x": 1056,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 66
+    },
+    "old_woman": {
+      "x": 1072,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 67
+    },
+    "phoebe_mystic_quest_": {
+      "x": 1088,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 68
+    },
+    "piratian": {
+      "x": 1104,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 69
+    },
+    "plasma_beam_metroid_2_": {
+      "x": 1120,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 70
+    },
+    "player_bs_boy_": {
+      "x": 1136,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 71
+    },
+    "player_bs_girl_": {
+      "x": 1152,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 72
+    },
+    "pochi_legacy_of_the_wizard_": {
+      "x": 1168,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 73
+    },
+    "pols_voice": {
+      "x": 1184,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 74
+    },
+    "prince_of_sabl_": {
+      "x": 1200,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 75
+    },
+    "ravio_hyrule_warriors_": {
+      "x": 1216,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 76
+    },
+    "reuben_mystic_quest_": {
+      "x": 1232,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 77
+    },
+    "richard_link_s_awakening_": {
+      "x": 1248,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 78
+    },
+    "rinka": {
+      "x": 1264,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 79
+    },
+    "rope": {
+      "x": 1280,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 80
+    },
+    "ruto_hyrule_warriors_": {
+      "x": 1296,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 81
+    },
+    "samus": {
+      "x": 1312,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 82
+    },
+    "saria": {
+      "x": 1328,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 83
+    },
+    "shadow_link": {
+      "x": 1344,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 84
+    },
+    "sheik_hyrule_warriors_": {
+      "x": 1360,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 85
+    },
+    "shopkeeper": {
+      "x": 1376,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 86
+    },
+    "subrosian": {
+      "x": 1392,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 87
+    },
+    "tingle_hyrule_warriors_": {
+      "x": 1408,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 88
+    },
+    "tokay": {
+      "x": 1424,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 89
+    },
+    "trendy_game_shop_owner": {
+      "x": 1440,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 90
+    },
+    "triforce_keeper": {
+      "x": 1456,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 91
+    },
+    "tristam_mystic_quest_": {
+      "x": 1472,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 92
+    },
+    "tuni_nut_girl": {
+      "x": 1488,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 93
+    },
+    "viking_final_fantasy_iii_": {
+      "x": 1504,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 94
+    },
+    "vire": {
+      "x": 1520,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 95
+    },
+    "volga_hyrule_warriors_": {
+      "x": 1536,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 96
+    },
+    "white_mage_final_fantasy_iii_": {
+      "x": 1552,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 97
+    },
+    "wizzro_hyrule_warriors_": {
+      "x": 1568,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 98
+    },
+    "wizzrobe": {
+      "x": 1584,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 99
+    },
+    "young_link_hyrule_warriors_": {
+      "x": 1600,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 100
+    },
+    "zant_hyrule_warriors_": {
+      "x": 1616,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 101
+    },
+    "zelda": {
+      "x": 1632,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 102
+    },
+    "zelda_breath_of_the_wild_": {
+      "x": 1648,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 103
+    },
+    "zelda_hyrule_warriors_": {
+      "x": 1664,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 104
+    },
+    "zoomer": {
+      "x": 1680,
+      "y": 0,
+      "w": 16,
+      "h": 16,
+      "i": 105
+    }
+  }
+}
