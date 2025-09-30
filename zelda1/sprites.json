@@ -1,0 +1,852 @@
+{
+  "sprites": [
+    {
+      "value": "abobo_abobo_s_big_adventure_",
+      "name": "Abobo (Abobo's Big Adventure)",
+      "imagePath": "abobo_abobo_s_big_adventure_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "abobo_abobo_s_big_adventure_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "agitha_hyrule_warriors_",
+      "name": "Agitha (Hyrule Warriors)",
+      "imagePath": "agitha_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "agitha_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "armos",
+      "name": "Armos",
+      "imagePath": "armos.png",
+      "author": "Zero Meaning",
+      "rdcPath": "armos.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "bait",
+      "name": "Bait",
+      "imagePath": "bait.png",
+      "author": "Zero Meaning",
+      "rdcPath": "bait.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "bard_final_fantasy_iii_",
+      "name": "Bard (Final Fantasy III)",
+      "imagePath": "bard_final_fantasy_iii_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "bard_final_fantasy_iii_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "benjamin_mystic_quest_",
+      "name": "Benjamin (Mystic Quest)",
+      "imagePath": "benjamin_mystic_quest_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "benjamin_mystic_quest_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "black_mage_final_fantasy_",
+      "name": "Black Mage (Final Fantasy)",
+      "imagePath": "black_mage_final_fantasy_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "black_mage_final_fantasy_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "block",
+      "name": "Block",
+      "imagePath": "block.png",
+      "author": "Zero Meaning",
+      "rdcPath": "block.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "book",
+      "name": "Book",
+      "imagePath": "book.png",
+      "author": "Zero Meaning",
+      "rdcPath": "book.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "brinstar_statue",
+      "name": "Brinstar Statue",
+      "imagePath": "brinstar_statue.png",
+      "author": "Zero Meaning",
+      "rdcPath": "brinstar_statue.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "bub_bob_bubble_bobble_",
+      "name": "Bub/Bob (Bubble Bobble)",
+      "imagePath": "bub_bob_bubble_bobble_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "bub_bob_bubble_bobble_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "bush",
+      "name": "Bush",
+      "imagePath": "bush.png",
+      "author": "Zero Meaning",
+      "rdcPath": "bush.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "cecil_final_fantasy_iv_",
+      "name": "Cecil (Final Fantasy IV)",
+      "imagePath": "cecil_final_fantasy_iv_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "cecil_final_fantasy_iv_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "child_zelda_2_",
+      "name": "Child (Zelda 2)",
+      "imagePath": "child_zelda_2_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "child_zelda_2_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "cia_hyrule_warriors_",
+      "name": "Cia (Hyrule Warriors)",
+      "imagePath": "cia_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "cia_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "darunia_hyrule_warriors_",
+      "name": "Darunia (Hyrule Warriors)",
+      "imagePath": "darunia_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "darunia_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "digdogger",
+      "name": "Digdogger",
+      "imagePath": "digdogger.png",
+      "author": "Zero Meaning",
+      "rdcPath": "digdogger.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "dwarven_swordsmith",
+      "name": "Dwarven Swordsmith",
+      "imagePath": "dwarven_swordsmith.png",
+      "author": "Zero Meaning",
+      "rdcPath": "dwarven_swordsmith.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "eggplant",
+      "name": "Eggplant",
+      "imagePath": "eggplant.png",
+      "author": "MetalMachine",
+      "rdcPath": "eggplant.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "ethan_pok_mon_",
+      "name": "Ethan (Pokémon)",
+      "imagePath": "ethan_pok_mon_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "ethan_pok_mon_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "fi_hyrule_warriors_",
+      "name": "Fi (Hyrule Warriors)",
+      "imagePath": "fi_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "fi_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "fighter_final_fantasy_",
+      "name": "Fighter (Final Fantasy)",
+      "imagePath": "fighter_final_fantasy_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "fighter_final_fantasy_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "frog_a_link_to_the_past_",
+      "name": "Frog (A Link To The Past)",
+      "imagePath": "frog_a_link_to_the_past_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "frog_a_link_to_the_past_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "ganon",
+      "name": "Ganon",
+      "imagePath": "ganon.png",
+      "author": "Zero Meaning",
+      "rdcPath": "ganon.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "ganondorf_hyrule_warriors_",
+      "name": "Ganondorf (Hyrule Warriors)",
+      "imagePath": "ganondorf_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "ganondorf_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "gerudo_outfit_breath_of_the_wild_",
+      "name": "Gerudo Outfit (Breath of the Wild)",
+      "imagePath": "gerudo_outfit_breath_of_the_wild_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "gerudo_outfit_breath_of_the_wild_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "ghini",
+      "name": "Ghini",
+      "imagePath": "ghini.png",
+      "author": "Zero Meaning",
+      "rdcPath": "ghini.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "ghirahim_hyrule_warriors_",
+      "name": "Ghirahim (Hyrule Warriors)",
+      "imagePath": "ghirahim_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "ghirahim_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "gleeok_head",
+      "name": "Gleeok Head",
+      "imagePath": "gleeok_head.png",
+      "author": "Zero Meaning",
+      "rdcPath": "gleeok_head.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "goron_oracle_series_",
+      "name": "Goron (Oracle Series)",
+      "imagePath": "goron_oracle_series_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "goron_oracle_series_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "heart_container",
+      "name": "Heart Container",
+      "imagePath": "heart_container.png",
+      "author": "Zero Meaning",
+      "rdcPath": "heart_container.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "hero_dragon_warrior_",
+      "name": "Hero (Dragon Warrior)",
+      "imagePath": "hero_dragon_warrior_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "hero_dragon_warrior_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "holly_oracle_of_seasons_",
+      "name": "Holly (Oracle of Seasons)",
+      "imagePath": "holly_oracle_of_seasons_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "holly_oracle_of_seasons_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "impa_hyrule_warriors_",
+      "name": "Impa (Hyrule Warriors)",
+      "imagePath": "impa_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "impa_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "jim_hydlide_",
+      "name": "Jim (Hydlide)",
+      "imagePath": "jim_hydlide_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "jim_hydlide_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "justin_bailey",
+      "name": "Justin Bailey",
+      "imagePath": "justin_bailey.png",
+      "author": "Zero Meaning",
+      "rdcPath": "justin_bailey.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "kaeli_mystic_quest_",
+      "name": "Kaeli (Mystic Quest)",
+      "imagePath": "kaeli_mystic_quest_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "kaeli_mystic_quest_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "kraid",
+      "name": "Kraid",
+      "imagePath": "kraid.png",
+      "author": "Zero Meaning",
+      "rdcPath": "kraid.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "kris_pok_mon_",
+      "name": "Kris (Pokémon)",
+      "imagePath": "kris_pok_mon_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "kris_pok_mon_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "lana_hyrule_warriors_",
+      "name": "Lana (Hyrule Warriors)",
+      "imagePath": "lana_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "lana_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link",
+      "name": "Link",
+      "imagePath": "link.png",
+      "author": "Nintendo",
+      "rdcPath": "link.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_breath_of_the_wild_",
+      "name": "Link (Breath of the Wild)",
+      "imagePath": "link_breath_of_the_wild_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_breath_of_the_wild_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_bunny_",
+      "name": "Link (Bunny)",
+      "imagePath": "link_bunny_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_bunny_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_female_",
+      "name": "Link (Female)",
+      "imagePath": "link_female_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_female_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_invisible_",
+      "name": "Link (Invisible)",
+      "imagePath": "link_invisible_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_invisible_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_link_s_awakening_",
+      "name": "Link (Link's Awakening)",
+      "imagePath": "link_link_s_awakening_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_link_s_awakening_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_outline_",
+      "name": "Link (Outline)",
+      "imagePath": "link_outline_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_outline_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_santa_",
+      "name": "Link (Santa)",
+      "imagePath": "link_santa_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_santa_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_the_legend_of_link_",
+      "name": "Link (The Legend of Link)",
+      "imagePath": "link_the_legend_of_link_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_the_legend_of_link_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_trial_of_courage_",
+      "name": "Link (Trial of Courage)",
+      "imagePath": "link_trial_of_courage_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_trial_of_courage_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_upside-down_",
+      "name": "Link (Upside-Down)",
+      "imagePath": "link_upside-down_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_upside-down_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "link_zelda_2_",
+      "name": "Link (Zelda 2)",
+      "imagePath": "link_zelda_2_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link_zelda_2_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "linkle",
+      "name": "Linkle",
+      "imagePath": "linkle.png",
+      "author": "Zero Meaning",
+      "rdcPath": "linkle.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "manhandla_stem_",
+      "name": "Manhandla (Stem)",
+      "imagePath": "manhandla_stem_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "manhandla_stem_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "maria_final_fantasy_ii_",
+      "name": "Maria (Final Fantasy II)",
+      "imagePath": "maria_final_fantasy_ii_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "maria_final_fantasy_ii_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "marin_hyrule_warriors_",
+      "name": "Marin (Hyrule Warriors)",
+      "imagePath": "marin_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "marin_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "marin_link_s_awakening_",
+      "name": "Marin (Link's Awakening)",
+      "imagePath": "marin_link_s_awakening_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "marin_link_s_awakening_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "mario_super_mario_land_2_",
+      "name": "Mario (Super Mario Land 2)",
+      "imagePath": "mario_super_mario_land_2_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "mario_super_mario_land_2_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "midna_imp_form_hyrule_warriors_",
+      "name": "Midna (Imp Form) (Hyrule Warriors)",
+      "imagePath": "midna_imp_form_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "midna_imp_form_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "midna_true_form_hyrule_warriors_",
+      "name": "Midna (True Form) (Hyrule Warriors)",
+      "imagePath": "midna_true_form_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "midna_true_form_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "missile",
+      "name": "Missile",
+      "imagePath": "missile.png",
+      "author": "Zero Meaning",
+      "rdcPath": "missile.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "moblin",
+      "name": "Moblin",
+      "imagePath": "moblin.png",
+      "author": "Zero Meaning",
+      "rdcPath": "moblin.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "mother_brain",
+      "name": "Mother Brain",
+      "imagePath": "mother_brain.png",
+      "author": "Zero Meaning",
+      "rdcPath": "mother_brain.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "nayru",
+      "name": "Nayru",
+      "imagePath": "nayru.png",
+      "author": "Zero Meaning",
+      "rdcPath": "nayru.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "octorok",
+      "name": "Octorok",
+      "imagePath": "octorok.png",
+      "author": "Zero Meaning",
+      "rdcPath": "octorok.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "old_man",
+      "name": "Old Man",
+      "imagePath": "old_man.png",
+      "author": "Zero Meaning",
+      "rdcPath": "old_man.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "old_man_link_s_awakening_",
+      "name": "Old Man (Link's Awakening)",
+      "imagePath": "old_man_link_s_awakening_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "old_man_link_s_awakening_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "old_woman",
+      "name": "Old Woman",
+      "imagePath": "old_woman.png",
+      "author": "Zero Meaning",
+      "rdcPath": "old_woman.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "phoebe_mystic_quest_",
+      "name": "Phoebe (Mystic Quest)",
+      "imagePath": "phoebe_mystic_quest_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "phoebe_mystic_quest_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "piratian",
+      "name": "Piratian",
+      "imagePath": "piratian.png",
+      "author": "Zero Meaning",
+      "rdcPath": "piratian.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "plasma_beam_metroid_2_",
+      "name": "Plasma Beam (Metroid 2)",
+      "imagePath": "plasma_beam_metroid_2_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "plasma_beam_metroid_2_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "player_bs_boy_",
+      "name": "Player (BS Boy)",
+      "imagePath": "player_bs_boy_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "player_bs_boy_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "player_bs_girl_",
+      "name": "Player (BS Girl)",
+      "imagePath": "player_bs_girl_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "player_bs_girl_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "pochi_legacy_of_the_wizard_",
+      "name": "Pochi (Legacy of the Wizard)",
+      "imagePath": "pochi_legacy_of_the_wizard_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "pochi_legacy_of_the_wizard_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "pols_voice",
+      "name": "Pols Voice",
+      "imagePath": "pols_voice.png",
+      "author": "Zero Meaning",
+      "rdcPath": "pols_voice.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "prince_of_sabl_",
+      "name": "Prince of Sablé",
+      "imagePath": "prince_of_sabl_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "prince_of_sabl_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "ravio_hyrule_warriors_",
+      "name": "Ravio (Hyrule Warriors)",
+      "imagePath": "ravio_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "ravio_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "reuben_mystic_quest_",
+      "name": "Reuben (Mystic Quest)",
+      "imagePath": "reuben_mystic_quest_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "reuben_mystic_quest_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "richard_link_s_awakening_",
+      "name": "Richard (Link's Awakening)",
+      "imagePath": "richard_link_s_awakening_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "richard_link_s_awakening_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "rinka",
+      "name": "Rinka",
+      "imagePath": "rinka.png",
+      "author": "Zero Meaning",
+      "rdcPath": "rinka.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "rope",
+      "name": "Rope",
+      "imagePath": "rope.png",
+      "author": "Zero Meaning",
+      "rdcPath": "rope.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "ruto_hyrule_warriors_",
+      "name": "Ruto (Hyrule Warriors)",
+      "imagePath": "ruto_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "ruto_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "samus",
+      "name": "Samus",
+      "imagePath": "samus.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "saria",
+      "name": "Saria",
+      "imagePath": "saria.png",
+      "author": "Zero Meaning",
+      "rdcPath": "saria.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "shadow_link",
+      "name": "Shadow Link",
+      "imagePath": "shadow_link.png",
+      "author": "Zero Meaning",
+      "rdcPath": "shadow_link.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "sheik_hyrule_warriors_",
+      "name": "Sheik (Hyrule Warriors)",
+      "imagePath": "sheik_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "sheik_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "shopkeeper",
+      "name": "Shopkeeper",
+      "imagePath": "shopkeeper.png",
+      "author": "Zero Meaning",
+      "rdcPath": "shopkeeper.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "subrosian",
+      "name": "Subrosian",
+      "imagePath": "subrosian.png",
+      "author": "Zero Meaning",
+      "rdcPath": "subrosian.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "tingle_hyrule_warriors_",
+      "name": "Tingle (Hyrule Warriors)",
+      "imagePath": "tingle_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "tingle_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "tokay",
+      "name": "Tokay",
+      "imagePath": "tokay.png",
+      "author": "Zero Meaning",
+      "rdcPath": "tokay.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "trendy_game_shop_owner",
+      "name": "Trendy Game Shop Owner",
+      "imagePath": "trendy_game_shop_owner.png",
+      "author": "Zero Meaning",
+      "rdcPath": "trendy_game_shop_owner.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "triforce_keeper",
+      "name": "Triforce Keeper",
+      "imagePath": "triforce_keeper.png",
+      "author": "Zero Meaning",
+      "rdcPath": "triforce_keeper.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "tristam_mystic_quest_",
+      "name": "Tristam (Mystic Quest)",
+      "imagePath": "tristam_mystic_quest_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "tristam_mystic_quest_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "tuni_nut_girl",
+      "name": "Tuni Nut Girl",
+      "imagePath": "tuni_nut_girl.png",
+      "author": "Zero Meaning",
+      "rdcPath": "tuni_nut_girl.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "viking_final_fantasy_iii_",
+      "name": "Viking (Final Fantasy III)",
+      "imagePath": "viking_final_fantasy_iii_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "viking_final_fantasy_iii_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "vire",
+      "name": "Vire",
+      "imagePath": "vire.png",
+      "author": "Zero Meaning",
+      "rdcPath": "vire.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "volga_hyrule_warriors_",
+      "name": "Volga (Hyrule Warriors)",
+      "imagePath": "volga_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "volga_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "white_mage_final_fantasy_iii_",
+      "name": "White Mage (Final Fantasy III)",
+      "imagePath": "white_mage_final_fantasy_iii_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "white_mage_final_fantasy_iii_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "wizzro_hyrule_warriors_",
+      "name": "Wizzro (Hyrule Warriors)",
+      "imagePath": "wizzro_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "wizzro_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "wizzrobe",
+      "name": "Wizzrobe",
+      "imagePath": "wizzrobe.png",
+      "author": "Zero Meaning",
+      "rdcPath": "wizzrobe.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "young_link_hyrule_warriors_",
+      "name": "Young Link (Hyrule Warriors)",
+      "imagePath": "young_link_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "young_link_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "zant_hyrule_warriors_",
+      "name": "Zant (Hyrule Warriors)",
+      "imagePath": "zant_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "zant_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "zelda",
+      "name": "Zelda",
+      "imagePath": "zelda.png",
+      "author": "Zero Meaning",
+      "rdcPath": "zelda.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "zelda_breath_of_the_wild_",
+      "name": "Zelda (Breath of the Wild)",
+      "imagePath": "zelda_breath_of_the_wild_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "zelda_breath_of_the_wild_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "zelda_hyrule_warriors_",
+      "name": "Zelda (Hyrule Warriors)",
+      "imagePath": "zelda_hyrule_warriors_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "zelda_hyrule_warriors_.rdc",
+      "kind": "rdc/nes-z1"
+    },
+    {
+      "value": "zoomer",
+      "name": "Zoomer",
+      "imagePath": "zoomer.png",
+      "author": "Zero Meaning",
+      "rdcPath": "zoomer.rdc",
+      "kind": "rdc/nes-z1"
+    }
+  ]
+}
