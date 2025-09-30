@@ -1,0 +1,308 @@
+{
+  "sprites": [
+    {
+      "value": "alex_river_city_ransom_",
+      "name": "Alex (River City Ransom)",
+      "imagePath": "alex_river_city_ransom_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "alex_river_city_ransom_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "bessie",
+      "name": "Bessie",
+      "imagePath": "bessie.png",
+      "author": "Zero Meaning",
+      "rdcPath": "bessie.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "bill_rizer_lance_bean_contra_",
+      "name": "Bill Rizer/Lance Bean (Contra)",
+      "imagePath": "bill_rizer_lance_bean_contra_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "bill_rizer_lance_bean_contra_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "dawn_aran_helmet_rogue_dawn_",
+      "name": "Dawn Aran (Helmet) (Rogue Dawn)",
+      "imagePath": "dawn_aran_helmet_rogue_dawn_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "dawn_aran_helmet_rogue_dawn_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "dawn_aran_pirate_suit_rogue_dawn_",
+      "name": "Dawn Aran (Pirate Suit) (Rogue Dawn)",
+      "imagePath": "dawn_aran_pirate_suit_rogue_dawn_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "dawn_aran_pirate_suit_rogue_dawn_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "dr_jekyll_dr_jekyll_and_mr_hyde_",
+      "name": "Dr. Jekyll (Dr. Jekyll and Mr. Hyde)",
+      "imagePath": "dr_jekyll_dr_jekyll_and_mr_hyde_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "dr_jekyll_dr_jekyll_and_mr_hyde_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "glitchout",
+      "name": "Glitchout",
+      "imagePath": "glitchout.png",
+      "author": "Zero Meaning",
+      "rdcPath": "glitchout.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "infant_metroid_metroid_2_",
+      "name": "Infant Metroid (Metroid 2)",
+      "imagePath": "infant_metroid_metroid_2_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "infant_metroid_metroid_2_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "item_stack",
+      "name": "Item Stack",
+      "imagePath": "item_stack.png",
+      "author": "Zero Meaning",
+      "rdcPath": "item_stack.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "justin_bailey_mdbtroid_",
+      "name": "Justin Bailey (MDbtroid)",
+      "imagePath": "justin_bailey_mdbtroid_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "justin_bailey_mdbtroid_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "justin_bailey_metroid_omega_",
+      "name": "Justin Bailey (Metroid Omega)",
+      "imagePath": "justin_bailey_metroid_omega_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "justin_bailey_metroid_omega_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "justin_bailey_metroid_redux_",
+      "name": "Justin Bailey (Metroid Redux)",
+      "imagePath": "justin_bailey_metroid_redux_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "justin_bailey_metroid_redux_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "justin_bailey_roidz_",
+      "name": "Justin Bailey ('Roidz)",
+      "imagePath": "justin_bailey_roidz_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "justin_bailey_roidz_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "knight_final_fantasy_",
+      "name": "Knight (Final Fantasy)",
+      "imagePath": "knight_final_fantasy_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "knight_final_fantasy_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "kraid",
+      "name": "Kraid",
+      "imagePath": "kraid.png",
+      "author": "Zero Meaning",
+      "rdcPath": "kraid.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "link",
+      "name": "Link",
+      "imagePath": "link.png",
+      "author": "Zero Meaning",
+      "rdcPath": "link.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "master_final_fantasy_",
+      "name": "Master (Final Fantasy)",
+      "imagePath": "master_final_fantasy_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "master_final_fantasy_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "mike_jones_startropics_",
+      "name": "Mike Jones (Startropics)",
+      "imagePath": "mike_jones_startropics_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "mike_jones_startropics_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "mother_brain",
+      "name": "Mother Brain",
+      "imagePath": "mother_brain.png",
+      "author": "Zero Meaning",
+      "rdcPath": "mother_brain.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "mother_brain_2_super_metroid_",
+      "name": "Mother Brain 2 (Super Metroid)",
+      "imagePath": "mother_brain_2_super_metroid_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "mother_brain_2_super_metroid_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "nathan_rad_spencer_bionic_commando_",
+      "name": "Nathan 'Rad' Spencer (Bionic Commando)",
+      "imagePath": "nathan_rad_spencer_bionic_commando_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "nathan_rad_spencer_bionic_commando_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "pit_kid_icarus_",
+      "name": "Pit (Kid Icarus)",
+      "imagePath": "pit_kid_icarus_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "pit_kid_icarus_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "ridien_project_ridien_",
+      "name": "Ridien (Project Ridien)",
+      "imagePath": "ridien_project_ridien_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "ridien_project_ridien_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus",
+      "name": "Samus",
+      "imagePath": "samus.png",
+      "author": "Nintendo",
+      "rdcPath": "samus.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_beta_",
+      "name": "Samus (Beta)",
+      "imagePath": "samus_beta_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_beta_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_invisible_",
+      "name": "Samus (Invisible)",
+      "imagePath": "samus_invisible_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_invisible_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_mdbtroid_",
+      "name": "Samus (MDbtroid)",
+      "imagePath": "samus_mdbtroid_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_mdbtroid_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_metroid_c_",
+      "name": "Samus (Metroid C)",
+      "imagePath": "samus_metroid_c_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_metroid_c_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_metroid_captive_",
+      "name": "Samus (Metroid Captive)",
+      "imagePath": "samus_metroid_captive_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_metroid_captive_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_metroid_omega_",
+      "name": "Samus (Metroid Omega)",
+      "imagePath": "samus_metroid_omega_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_metroid_omega_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_metroid_redux_",
+      "name": "Samus (Metroid Redux)",
+      "imagePath": "samus_metroid_redux_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_metroid_redux_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_outline_",
+      "name": "Samus (Outline)",
+      "imagePath": "samus_outline_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_outline_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_roidz_",
+      "name": "Samus ('Roidz)",
+      "imagePath": "samus_roidz_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_roidz_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "samus_xmas_",
+      "name": "Samus (Xmas)",
+      "imagePath": "samus_xmas_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "samus_xmas_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "shadow_samus",
+      "name": "Shadow Samus",
+      "imagePath": "shadow_samus.png",
+      "author": "Zero Meaning",
+      "rdcPath": "shadow_samus.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "simon_belmont_castlevania_",
+      "name": "Simon Belmont (Castlevania)",
+      "imagePath": "simon_belmont_castlevania_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "simon_belmont_castlevania_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "super_mario_super_mario_bros_",
+      "name": "Super Mario (Super Mario Bros.)",
+      "imagePath": "super_mario_super_mario_bros_.png",
+      "author": "Zero Meaning",
+      "rdcPath": "super_mario_super_mario_bros_.rdc",
+      "kind": "rdc/nes-m1"
+    },
+    {
+      "value": "zelda",
+      "name": "Zelda",
+      "imagePath": "zelda.png",
+      "author": "Zero Meaning",
+      "rdcPath": "zelda.rdc",
+      "kind": "rdc/nes-m1"
+    }
+  ]
+}
